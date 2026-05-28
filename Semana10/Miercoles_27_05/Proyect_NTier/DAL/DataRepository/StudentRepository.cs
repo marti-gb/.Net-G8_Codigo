@@ -44,8 +44,8 @@ namespace DAL.DataRepository
 
                     dbConnection.Execute(query, new
                     {
-                        FistName = student.FirstName,
-                        LastName = student.LastName,
+                        FistName = student.First_Name,
+                        LastName = student.Last_Name,
                         Email = student.Email,
                         IsActive = true
                     }, commandType: CommandType.Text);
@@ -73,8 +73,8 @@ namespace DAL.DataRepository
                     dbConnection.Execute(query, new
                     {
                         Id = student.Id,
-                        FistName = student.FirstName,
-                        LastName = student.LastName,
+                        FistName = student.First_Name,
+                        LastName = student.Last_Name,
                         Email = student.Email
                     }, commandType: CommandType.Text);
 

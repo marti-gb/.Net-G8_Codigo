@@ -1,7 +1,15 @@
+using BLL.Services;
+using DAL.DataContext;
+using DAL.DataRepository;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddSingleton<IStudentServices, StudentServices>();
+builder.Services.AddSingleton<IStudentRepository, StudentRepository>();
+builder.Services.AddSingleton<IDapperConnectionHelper, DapperConnectionHelper>();
 
 var app = builder.Build();
 

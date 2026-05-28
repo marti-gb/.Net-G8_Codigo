@@ -1,0 +1,55 @@
+﻿@using BLL.Dtos
+
+@model IEnumerable<StudentDto>
+
+<div class="row">
+    <div class="col-lg-6">
+        <h2>Lista de Estudiantes</h2>
+    </div>
+    <div class="col-lg-6 text-end">
+        <a class="btn btn-success" href="@Url.Action("Create", "Student")">Agregar nuevo estudiante</a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">Id</th>
+                    <th scope="col">Nombres</th>
+                    <th scope="col">Apellidos</th>
+                    <th scope="col">Email</th>
+                    <th scope="col">Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    if (Model != null && Model.Count() > 0)
+                    {
+                        foreach (var student in Model)
+                        {
+                            <tr>
+                                <td scope="row">@student.Id</td>
+                                <td>@student.FirstName</td>
+                                <td>@student.LastName</td>
+                                <td>@student.Email</td>
+                                <td>
+                                    <a class="btn btn-primary btn-sm" href="@Url.Action("Edit", "Student", new { id = student.Id })">Edit</a>
+                                    <a class="btn btn-danger btn-sm" href="@Url.Action("Delete", "Student", new { id = student.Id })" 
+                                    onclick="return confirm('Esta seguro de eliminar este registro?');">Eliminar</a>
+                                </td>
+                            </tr>
+                        }
+                    }
+                    else
+                    {
+                        <tr>
+                            <td colspan="5">No existen registros</td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

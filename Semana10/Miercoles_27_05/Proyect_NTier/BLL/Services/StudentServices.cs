@@ -14,7 +14,7 @@ namespace BLL.Services
 
         public List<StudentDto> GetAllStudents()
         {
-            StudentDto studentDto = new StudentDto();
+            StudentDto studentDto = new();
             List<StudentDto> studentsDto = new List<StudentDto>();
 
             List<Student> students = new List<Student>();
@@ -22,12 +22,14 @@ namespace BLL.Services
             foreach (Student student in students)
             {
                 studentDto.Id = student.Id;
-                studentDto.FirstName = student.FirstName;
-                studentDto.LastName = student.LastName;
+                studentDto.FirstName = student.First_Name;
+                studentDto.LastName = student.Last_Name;
                 studentDto.Email = student.Email;
 
                 studentsDto.Add(studentDto);
+                studentDto = new();
             }
+            
             return studentsDto;
         }
 
@@ -43,8 +45,8 @@ namespace BLL.Services
 
             Student newStudent = new Student();
 
-            newStudent.FirstName = studentDto.FirstName;
-            newStudent.LastName = studentDto.LastName;
+            newStudent.First_Name = studentDto.FirstName;
+            newStudent.Last_Name = studentDto.LastName;
             newStudent.Email = studentDto.Email;
 
             try
@@ -80,8 +82,8 @@ namespace BLL.Services
             Student newStudent = new Student();
 
             newStudent.Id = studentDto.Id;
-            newStudent.FirstName = studentDto.FirstName;
-            newStudent.LastName = studentDto.LastName;
+            newStudent.First_Name = studentDto.FirstName;
+            newStudent.Last_Name = studentDto.LastName;
             newStudent.Email = studentDto.Email;
 
             try
