@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana10\\Miercoles_27_05\\Proyect_NTier\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9E023051-33C8-4043-A446-026E458148A2}|BLL\\BLL.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana10\\miercoles_27_05\\proyect_ntier\\bll\\services\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E023051-33C8-4043-A446-026E458148A2}|BLL\\BLL.csproj|solutionrelative:bll\\services\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457C0520-4105-4EAC-BD5B-C787AF38466F}|DAL\\DAL.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana10\\miercoles_27_05\\proyect_ntier\\dal\\datarepository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457C0520-4105-4EAC-BD5B-C787AF38466F}|DAL\\DAL.csproj|solutionrelative:dal\\datarepository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E023051-33C8-4043-A446-026E458148A2}|BLL\\BLL.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana10\\miercoles_27_05\\proyect_ntier\\bll\\services\\istudentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E023051-33C8-4043-A446-026E458148A2}|BLL\\BLL.csproj|solutionrelative:bll\\services\\istudentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E3985552-5AE6-4341-B6E9-C043DE7B6A1B}|Presentation\\Presentation.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana10\\miercoles_27_05\\proyect_ntier\\presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E3985552-5AE6-4341-B6E9-C043DE7B6A1B}|Presentation\\Presentation.csproj|solutionrelative:presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -15,16 +27,8 @@
       "RelativeMoniker": "D:0:0:{457C0520-4105-4EAC-BD5B-C787AF38466F}|DAL\\DAL.csproj|solutionrelative:dal\\datacontext\\idapperconnectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{457C0520-4105-4EAC-BD5B-C787AF38466F}|DAL\\DAL.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana10\\miercoles_27_05\\proyect_ntier\\dal\\datarepository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{457C0520-4105-4EAC-BD5B-C787AF38466F}|DAL\\DAL.csproj|solutionrelative:dal\\datarepository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{457C0520-4105-4EAC-BD5B-C787AF38466F}|DAL\\DAL.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana10\\miercoles_27_05\\proyect_ntier\\dal\\datarepository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{457C0520-4105-4EAC-BD5B-C787AF38466F}|DAL\\DAL.csproj|solutionrelative:dal\\datarepository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D99C1B1D-CF49-402C-846E-9F28B7C014E4}|BOL\\BOL.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana10\\miercoles_27_05\\proyect_ntier\\bol\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D99C1B1D-CF49-402C-846E-9F28B7C014E4}|BOL\\BOL.csproj|solutionrelative:bol\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3985552-5AE6-4341-B6E9-C043DE7B6A1B}|Presentation\\Presentation.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana10\\miercoles_27_05\\proyect_ntier\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,24 +50,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 198,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "StudentRepository.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana10\\Miercoles_27_05\\Proyect_NTier\\DAL\\DataRepository\\StudentRepository.cs",
               "RelativeDocumentMoniker": "DAL\\DataRepository\\StudentRepository.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana10\\Miercoles_27_05\\Proyect_NTier\\DAL\\DataRepository\\StudentRepository.cs",
               "RelativeToolTip": "DAL\\DataRepository\\StudentRepository.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAAHAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwGgAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T01:37:35.611Z",
+              "WhenOpened": "2026-05-28T03:06:47.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "StudentServices.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana10\\Miercoles_27_05\\Proyect_NTier\\BLL\\Services\\StudentServices.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\StudentServices.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana10\\Miercoles_27_05\\Proyect_NTier\\BLL\\Services\\StudentServices.cs",
+              "RelativeToolTip": "BLL\\Services\\StudentServices.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAqwGsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T02:53:53.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentServices.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana10\\Miercoles_27_05\\Proyect_NTier\\BLL\\Services\\IStudentServices.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\IStudentServices.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana10\\Miercoles_27_05\\Proyect_NTier\\BLL\\Services\\IStudentServices.cs",
+              "RelativeToolTip": "BLL\\Services\\IStudentServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T02:52:07.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "IStudentRepository.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana10\\Miercoles_27_05\\Proyect_NTier\\DAL\\DataRepository\\IStudentRepository.cs",
               "RelativeDocumentMoniker": "DAL\\DataRepository\\IStudentRepository.cs",
@@ -71,12 +101,11 @@
               "RelativeToolTip": "DAL\\DataRepository\\IStudentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T01:30:15.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T01:30:15.012Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "DapperConnectionHelper.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana10\\Miercoles_27_05\\Proyect_NTier\\DAL\\DataContext\\DapperConnectionHelper.cs",
               "RelativeDocumentMoniker": "DAL\\DataContext\\DapperConnectionHelper.cs",
@@ -84,12 +113,11 @@
               "RelativeToolTip": "DAL\\DataContext\\DapperConnectionHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T01:22:22.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T01:22:22.232Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "IDapperConnectionHelper.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana10\\Miercoles_27_05\\Proyect_NTier\\DAL\\DataContext\\IDapperConnectionHelper.cs",
               "RelativeDocumentMoniker": "DAL\\DataContext\\IDapperConnectionHelper.cs",
@@ -97,25 +125,11 @@
               "RelativeToolTip": "DAL\\DataContext\\IDapperConnectionHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T01:21:02.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T01:21:02.476Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana10\\Miercoles_27_05\\Proyect_NTier\\BOL\\Entities\\Student.cs",
-              "RelativeDocumentMoniker": "BOL\\Entities\\Student.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana10\\Miercoles_27_05\\Proyect_NTier\\BOL\\Entities\\Student.cs",
-              "RelativeToolTip": "BOL\\Entities\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T01:18:20.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana10\\Miercoles_27_05\\Proyect_NTier\\Presentation\\Program.cs",
               "RelativeDocumentMoniker": "Presentation\\Program.cs",
@@ -123,12 +137,11 @@
               "RelativeToolTip": "Presentation\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T01:05:05.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T01:05:05.938Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana10\\Miercoles_27_05\\Proyect_NTier\\Presentation\\appsettings.json",
               "RelativeDocumentMoniker": "Presentation\\appsettings.json",
@@ -141,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana10\\Miercoles_27_05\\Proyect_NTier\\Presentation\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Presentation\\Properties\\launchSettings.json",
@@ -149,12 +162,11 @@
               "RelativeToolTip": "Presentation\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-28T01:04:29.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T01:04:29.922Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "BLL.csproj",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana10\\Miercoles_27_05\\Proyect_NTier\\BLL\\BLL.csproj",
               "RelativeDocumentMoniker": "BLL\\BLL.csproj",
@@ -162,8 +174,7 @@
               "RelativeToolTip": "BLL\\BLL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-28T01:02:44.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T01:02:44.452Z"
             }
           ]
         }
