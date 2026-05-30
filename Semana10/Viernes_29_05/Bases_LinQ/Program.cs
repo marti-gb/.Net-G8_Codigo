@@ -1,0 +1,4 @@
+﻿namespace Bases_LinQ
+{
+
+}

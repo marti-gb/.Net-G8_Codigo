@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\.NET-G8\Semana10\Viernes_29_05\Bases_LinQ\bin\Debug\net8.0\Bases_LinQ.exe
+C:\Users\LENOVO\Desktop\.NET-G8\Semana10\Viernes_29_05\Bases_LinQ\bin\Debug\net8.0\Bases_LinQ.deps.json
+C:\Users\LENOVO\Desktop\.NET-G8\Semana10\Viernes_29_05\Bases_LinQ\bin\Debug\net8.0\Bases_LinQ.runtimeconfig.json
+C:\Users\LENOVO\Desktop\.NET-G8\Semana10\Viernes_29_05\Bases_LinQ\bin\Debug\net8.0\Bases_LinQ.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana10\Viernes_29_05\Bases_LinQ\bin\Debug\net8.0\Bases_LinQ.pdb
+C:\Users\LENOVO\Desktop\.NET-G8\Semana10\Viernes_29_05\Bases_LinQ\obj\Debug\net8.0\Bases_LinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\.NET-G8\Semana10\Viernes_29_05\Bases_LinQ\obj\Debug\net8.0\Bases_LinQ.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana10\Viernes_29_05\Bases_LinQ\obj\Debug\net8.0\Bases_LinQ.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\.NET-G8\Semana10\Viernes_29_05\Bases_LinQ\obj\Debug\net8.0\Bases_LinQ.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana10\Viernes_29_05\Bases_LinQ\obj\Debug\net8.0\Bases_LinQ.sourcelink.json
+C:\Users\LENOVO\Desktop\.NET-G8\Semana10\Viernes_29_05\Bases_LinQ\obj\Debug\net8.0\Bases_LinQ.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana10\Viernes_29_05\Bases_LinQ\obj\Debug\net8.0\refint\Bases_LinQ.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana10\Viernes_29_05\Bases_LinQ\obj\Debug\net8.0\Bases_LinQ.pdb
+C:\Users\LENOVO\Desktop\.NET-G8\Semana10\Viernes_29_05\Bases_LinQ\obj\Debug\net8.0\Bases_LinQ.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana10\Viernes_29_05\Bases_LinQ\obj\Debug\net8.0\ref\Bases_LinQ.dll
