@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\.NET-G8\Semana10\Viernes_29_05\Ejecucion_Diferida_Inmediata_LinQ\bin\Debug\net8.0\Ejecucion_Diferida_Inmediata_LinQ.exe
+C:\Users\LENOVO\Desktop\.NET-G8\Semana10\Viernes_29_05\Ejecucion_Diferida_Inmediata_LinQ\bin\Debug\net8.0\Ejecucion_Diferida_Inmediata_LinQ.deps.json
+C:\Users\LENOVO\Desktop\.NET-G8\Semana10\Viernes_29_05\Ejecucion_Diferida_Inmediata_LinQ\bin\Debug\net8.0\Ejecucion_Diferida_Inmediata_LinQ.runtimeconfig.json
+C:\Users\LENOVO\Desktop\.NET-G8\Semana10\Viernes_29_05\Ejecucion_Diferida_Inmediata_LinQ\bin\Debug\net8.0\Ejecucion_Diferida_Inmediata_LinQ.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana10\Viernes_29_05\Ejecucion_Diferida_Inmediata_LinQ\bin\Debug\net8.0\Ejecucion_Diferida_Inmediata_LinQ.pdb
+C:\Users\LENOVO\Desktop\.NET-G8\Semana10\Viernes_29_05\Ejecucion_Diferida_Inmediata_LinQ\obj\Debug\net8.0\Ejecucion_Diferida_Inmediata_LinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\.NET-G8\Semana10\Viernes_29_05\Ejecucion_Diferida_Inmediata_LinQ\obj\Debug\net8.0\Ejecucion_Diferida_Inmediata_LinQ.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana10\Viernes_29_05\Ejecucion_Diferida_Inmediata_LinQ\obj\Debug\net8.0\Ejecucion_Diferida_Inmediata_LinQ.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\.NET-G8\Semana10\Viernes_29_05\Ejecucion_Diferida_Inmediata_LinQ\obj\Debug\net8.0\Ejecucion_Diferida_Inmediata_LinQ.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana10\Viernes_29_05\Ejecucion_Diferida_Inmediata_LinQ\obj\Debug\net8.0\Ejecucion_Diferida_Inmediata_LinQ.sourcelink.json
+C:\Users\LENOVO\Desktop\.NET-G8\Semana10\Viernes_29_05\Ejecucion_Diferida_Inmediata_LinQ\obj\Debug\net8.0\Ejecucion_Diferida_Inmediata_LinQ.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana10\Viernes_29_05\Ejecucion_Diferida_Inmediata_LinQ\obj\Debug\net8.0\refint\Ejecucion_Diferida_Inmediata_LinQ.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana10\Viernes_29_05\Ejecucion_Diferida_Inmediata_LinQ\obj\Debug\net8.0\Ejecucion_Diferida_Inmediata_LinQ.pdb
+C:\Users\LENOVO\Desktop\.NET-G8\Semana10\Viernes_29_05\Ejecucion_Diferida_Inmediata_LinQ\obj\Debug\net8.0\Ejecucion_Diferida_Inmediata_LinQ.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana10\Viernes_29_05\Ejecucion_Diferida_Inmediata_LinQ\obj\Debug\net8.0\ref\Ejecucion_Diferida_Inmediata_LinQ.dll

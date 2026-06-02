@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ejecucion_Diferida_Inmediata_LinQ/1.0.0": {
+        "runtime": {
+          "Ejecucion_Diferida_Inmediata_LinQ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejecucion_Diferida_Inmediata_LinQ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\lunes_01_06\\dataanotations_ef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\lunes_01_06\\dataanotations_ef\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\lunes_01_06\\dataanotations_ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Migrations\\20260602011322_initial_ef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260602011322_initial_ef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\lunes_01_06\\dataanotations_ef\\models\\onetoone\\carcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|solutionrelative:models\\onetoone\\carcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\lunes_01_06\\dataanotations_ef\\models\\onetoone\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|solutionrelative:models\\onetoone\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260602011322_initial_ef.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Migrations\\20260602011322_initial_ef.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260602011322_initial_ef.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Migrations\\20260602011322_initial_ef.cs",
+              "RelativeToolTip": "Migrations\\20260602011322_initial_ef.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAmwCkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T01:13:22.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T01:08:50.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T01:05:23.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-02T01:03:14.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarCompany.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Models\\OneToOne\\CarCompany.cs",
+              "RelativeDocumentMoniker": "Models\\OneToOne\\CarCompany.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Models\\OneToOne\\CarCompany.cs",
+              "RelativeToolTip": "Models\\OneToOne\\CarCompany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T00:57:31.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarModel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Models\\OneToOne\\CarModel.cs",
+              "RelativeDocumentMoniker": "Models\\OneToOne\\CarModel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Models\\OneToOne\\CarModel.cs",
+              "RelativeToolTip": "Models\\OneToOne\\CarModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T00:57:20.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
