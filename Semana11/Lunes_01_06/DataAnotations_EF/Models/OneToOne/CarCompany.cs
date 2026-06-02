@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace DataAnotations_EF.Models.OneToOne
+﻿namespace DataAnotations_EF.Models.OneToOne
 {
     public class CarCompany
     {
