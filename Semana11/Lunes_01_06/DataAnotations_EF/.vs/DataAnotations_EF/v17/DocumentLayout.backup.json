@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\lunes_01_06\\dataanotations_ef\\migrations\\20260602023204_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|solutionrelative:migrations\\20260602023204_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\lunes_01_06\\dataanotations_ef\\repository\\repositorymanytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|solutionrelative:repository\\repositorymanytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\lunes_01_06\\dataanotations_ef\\models\\manytomany\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|solutionrelative:models\\manytomany\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\lunes_01_06\\dataanotations_ef\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\lunes_01_06\\dataanotations_ef\\models\\manytomany\\coursestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|solutionrelative:models\\manytomany\\coursestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\lunes_01_06\\dataanotations_ef\\controllers\\manytomany.controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|solutionrelative:controllers\\manytomany.controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\lunes_01_06\\dataanotations_ef\\repository\\repositorymanytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|solutionrelative:repository\\repositorymanytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\lunes_01_06\\dataanotations_ef\\migrations\\20260602023204_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|solutionrelative:migrations\\20260602023204_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\lunes_01_06\\dataanotations_ef\\models\\manytomany\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|solutionrelative:models\\manytomany\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\lunes_01_06\\dataanotations_ef\\models\\manytomany\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\lunes_01_06\\dataanotations_ef\\repository\\repositoryonetomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|solutionrelative:repository\\repositoryonetomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\lunes_01_06\\dataanotations_ef\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{143833CC-D334-40A8-933B-02D51492DC8A}|DataAnotations_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\lunes_01_06\\dataanotations_ef\\models\\onetomany\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,37 +86,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 198,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "CourseStudent.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Models\\ManyToMany\\CourseStudent.cs",
+              "RelativeDocumentMoniker": "Models\\ManyToMany\\CourseStudent.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Models\\ManyToMany\\CourseStudent.cs",
+              "RelativeToolTip": "Models\\ManyToMany\\CourseStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T03:52:52.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "RepositoryManyTOMany.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Repository\\RepositoryManyTOMany.cs",
               "RelativeDocumentMoniker": "Repository\\RepositoryManyTOMany.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Repository\\RepositoryManyTOMany.cs",
               "RelativeToolTip": "Repository\\RepositoryManyTOMany.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAASwIEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-02T03:44:14.118Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ManyTOMany.Controller.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Controllers\\ManyTOMany.Controller.cs",
-              "RelativeDocumentMoniker": "Controllers\\ManyTOMany.Controller.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Controllers\\ManyTOMany.Controller.cs",
-              "RelativeToolTip": "Controllers\\ManyTOMany.Controller.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAkwDgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T02:39:20.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "20260602023204_third.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Migrations\\20260602023204_third.cs",
               "RelativeDocumentMoniker": "Migrations\\20260602023204_third.cs",
@@ -125,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Models\\ManyToMany\\Course.cs",
               "RelativeDocumentMoniker": "Models\\ManyToMany\\Course.cs",
@@ -138,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Models\\ManyToMany\\Student.cs",
               "RelativeDocumentMoniker": "Models\\ManyToMany\\Student.cs",
@@ -151,7 +155,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA4wBYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T01:08:50.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManyTOMany.Controller.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Controllers\\ManyTOMany.Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\ManyTOMany.Controller.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Controllers\\ManyTOMany.Controller.cs",
+              "RelativeToolTip": "Controllers\\ManyTOMany.Controller.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwDAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T02:39:20.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "OneTOManyController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Controllers\\OneTOManyController.cs",
               "RelativeDocumentMoniker": "Controllers\\OneTOManyController.cs",
@@ -164,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "RepositoryOneToMany.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Repository\\RepositoryOneToMany.cs",
               "RelativeDocumentMoniker": "Repository\\RepositoryOneToMany.cs",
@@ -177,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "20260602015527_second.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Migrations\\20260602015527_second.cs",
               "RelativeDocumentMoniker": "Migrations\\20260602015527_second.cs",
@@ -189,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Patient.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Models\\OneToMany\\Patient.cs",
               "RelativeDocumentMoniker": "Models\\OneToMany\\Patient.cs",
@@ -201,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Doctor.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Models\\OneToMany\\Doctor.cs",
               "RelativeDocumentMoniker": "Models\\OneToMany\\Doctor.cs",
@@ -213,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "OneToOneController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Controllers\\OneToOneController.cs",
               "RelativeDocumentMoniker": "Controllers\\OneToOneController.cs",
@@ -225,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "RepositoryOneTOOne.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Repository\\RepositoryOneTOOne.cs",
               "RelativeDocumentMoniker": "Repository\\RepositoryOneTOOne.cs",
@@ -237,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "20260602011322_initial_ef.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Migrations\\20260602011322_initial_ef.cs",
               "RelativeDocumentMoniker": "Migrations\\20260602011322_initial_ef.cs",
@@ -249,20 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA4wA4AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T01:08:50.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -275,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -287,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "CarCompany.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Models\\OneToOne\\CarCompany.cs",
               "RelativeDocumentMoniker": "Models\\OneToOne\\CarCompany.cs",
@@ -299,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "CarModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Models\\OneToOne\\CarModel.cs",
               "RelativeDocumentMoniker": "Models\\OneToOne\\CarModel.cs",

@@ -98,8 +98,7 @@
               "RelativeToolTip": "Models\\ManyToMany\\CourseStudent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T03:52:52.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T03:52:52.165Z"
             },
             {
               "$type": "Document",
@@ -109,7 +108,7 @@
               "RelativeDocumentMoniker": "Repository\\RepositoryManyTOMany.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Lunes_01_06\\DataAnotations_EF\\Repository\\RepositoryManyTOMany.cs",
               "RelativeToolTip": "Repository\\RepositoryManyTOMany.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADAAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-02T03:44:14.118Z",
               "EditorCaption": ""
@@ -124,8 +123,7 @@
               "RelativeToolTip": "Migrations\\20260602023204_third.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAQwCoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T02:32:04.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T02:32:04.424Z"
             },
             {
               "$type": "Document",
@@ -137,8 +135,7 @@
               "RelativeToolTip": "Models\\ManyToMany\\Course.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T02:26:00.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T02:26:00.352Z"
             },
             {
               "$type": "Document",
@@ -150,8 +147,7 @@
               "RelativeToolTip": "Models\\ManyToMany\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T02:25:24.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T02:25:24.393Z"
             },
             {
               "$type": "Document",
@@ -163,8 +159,7 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAA4wBYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T01:08:50.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T01:08:50.772Z"
             },
             {
               "$type": "Document",
@@ -176,8 +171,7 @@
               "RelativeToolTip": "Controllers\\ManyTOMany.Controller.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAkwDAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T02:39:20.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T02:39:20.988Z"
             },
             {
               "$type": "Document",
@@ -189,8 +183,7 @@
               "RelativeToolTip": "Controllers\\OneTOManyController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwCoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T02:01:40.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T02:01:40.668Z"
             },
             {
               "$type": "Document",
@@ -202,8 +195,7 @@
               "RelativeToolTip": "Repository\\RepositoryOneToMany.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T01:57:26.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T01:57:26.146Z"
             },
             {
               "$type": "Document",
@@ -287,8 +279,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAowBAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T01:05:23.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T01:05:23.509Z"
             },
             {
               "$type": "Document",
