@@ -1,4 +1,5 @@
-﻿using DataAnotations_EF.Models.OneToMany;
+﻿using DataAnotations_EF.Models.ManyToMany;
+using DataAnotations_EF.Models.OneToMany;
 using DataAnotations_EF.Models.OneToOne;
 using Microsoft.EntityFrameworkCore;
 
@@ -17,5 +18,10 @@ namespace DataAnotations_EF.Data
         //OneToMany
         public DbSet<Doctor> Doctors { get; set; }
         public DbSet<Patient> Patients { get; set; }
+
+        //Many To Many
+        public DbSet<Student> Students { get; set; }
+        public DbSet<Course> Courses { get; set; }
+        public DbSet<CourseStudent> CourseStudent { get; set; }
     }
 }

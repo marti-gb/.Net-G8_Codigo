@@ -1,5 +1,140 @@
 [
   {
+    "ContainingType": "DataAnotations_EF.Controllers.ManyTOManyController",
+    "Method": "AssignStudentToCourse",
+    "RelativePath": "api/ManyTOMany/AsignarEstudianteACurso",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "courseId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DataAnotations_EF.Controllers.ManyTOManyController",
+    "Method": "AddCourse",
+    "RelativePath": "api/ManyTOMany/Course",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "course",
+        "Type": "DataAnotations_EF.Models.ManyToMany.Course",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DataAnotations_EF.Controllers.ManyTOManyController",
+    "Method": "GetCourses",
+    "RelativePath": "api/ManyTOMany/Courses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DataAnotations_EF.Controllers.ManyTOManyController",
+    "Method": "GetCoursesWithStudentsSummary",
+    "RelativePath": "api/ManyTOMany/CursoConEstudiantesResumen",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DataAnotations_EF.Controllers.ManyTOManyController",
+    "Method": "AddCourseWithStudents",
+    "RelativePath": "api/ManyTOMany/CusoConEstudiantes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "course",
+        "Type": "DataAnotations_EF.Models.ManyToMany.Course",
+        "IsRequired": true
+      },
+      {
+        "Name": "studentIds",
+        "Type": "System.Collections.Generic.List\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DataAnotations_EF.Controllers.ManyTOManyController",
+    "Method": "AddStudentWithCourses",
+    "RelativePath": "api/ManyTOMany/EstudianteConCursos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "student",
+        "Type": "DataAnotations_EF.Models.ManyToMany.Student",
+        "IsRequired": true
+      },
+      {
+        "Name": "courseIds",
+        "Type": "System.Collections.Generic.List\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DataAnotations_EF.Controllers.ManyTOManyController",
+    "Method": "GetStudentsWithCoursesSummary",
+    "RelativePath": "api/ManyTOMany/EstudiantesConCursosResumen",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DataAnotations_EF.Controllers.ManyTOManyController",
+    "Method": "AddStudent",
+    "RelativePath": "api/ManyTOMany/Student",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "student",
+        "Type": "DataAnotations_EF.Models.ManyToMany.Student",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DataAnotations_EF.Controllers.ManyTOManyController",
+    "Method": "GetStudents",
+    "RelativePath": "api/ManyTOMany/Students",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "DataAnotations_EF.Controllers.OneTOManyController",
     "Method": "AddDoctor",
     "RelativePath": "api/OneTOMany/Doctor",
