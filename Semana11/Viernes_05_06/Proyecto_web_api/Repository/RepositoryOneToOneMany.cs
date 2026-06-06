@@ -95,6 +95,7 @@ namespace Proyecto_web_api.Repository
                     Id = x.Id,
                     Quantity = x.Quantity,
                     Price = x.Price,
+                    OrderId = x.OrderId,
                 }).ToList()
             };
 
@@ -102,7 +103,7 @@ namespace Proyecto_web_api.Repository
         }
 
 
-        public async Task<OrderDto> EditOrder(OrderDto orderDto)
+        public async Task<OrderDto> EditOrder(int id, OrderDto orderDto)
         {
             var newOrder = new Order();
             var newOrderDto = new OrderDto();
@@ -115,7 +116,7 @@ namespace Proyecto_web_api.Repository
             {
                 var order = await _context.Orders
                     .Include(x=>x.OrderDetails)
-                    .FirstOrDefaultAsync(p=>p.Id == orderDto.Id);
+                    .FirstOrDefaultAsync(p=>p.Id == id);
 
                 if (order == null) { return newOrderDto; }
 
@@ -129,6 +130,7 @@ namespace Proyecto_web_api.Repository
                     Id = x.Id,
                     Quantity= x.Quantity,
                     Price = x.Price,
+                    OrderId = x.OrderId
                 }).ToList();
 
                 try
