@@ -20,13 +20,13 @@ namespace FluentAPI_EF.Repository
 
         public async Task AddCarCompanyAsync(CarCompany carCompany)
         {
-            _context.CarCompanies.Add(carCompany);
+            await _context.CarCompanies.AddAsync(carCompany);
             await _context.SaveChangesAsync();
         }
 
         public async Task AddCarCModelAsync(CarModel carModel)
         {
-            _context.CarModels.Add(carModel);
+            await _context.CarModels.AddAsync(carModel);
             await _context.SaveChangesAsync();
         }
     }

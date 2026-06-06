@@ -21,6 +21,90 @@ namespace FluentAPI_EF.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("FluentAPI_EF.Models.ManyTOMany.Student", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Name")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Students");
+                });
+
+            modelBuilder.Entity("FluentAPI_EF.Models.ManyToMany.Course", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Name")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Courses");
+                });
+
+            modelBuilder.Entity("FluentAPI_EF.Models.ManyToMany.StudentCourse", b =>
+                {
+                    b.Property<int>("StudentId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("CourseId")
+                        .HasColumnType("int");
+
+                    b.HasKey("StudentId", "CourseId");
+
+                    b.HasIndex("CourseId");
+
+                    b.ToTable("StudentCourses");
+                });
+
+            modelBuilder.Entity("FluentAPI_EF.Models.OneTOMany.Doctor", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Name")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Doctors");
+                });
+
+            modelBuilder.Entity("FluentAPI_EF.Models.OneTOMany.Patient", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("DoctorId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Name")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("DoctorId");
+
+                    b.ToTable("Patients");
+                });
+
             modelBuilder.Entity("FluentAPI_EF.Models.OneTOOne.CarCompany", b =>
                 {
                     b.Property<int>("Id")
@@ -59,6 +143,36 @@ namespace FluentAPI_EF.Migrations
                     b.ToTable("CarModels");
                 });
 
+            modelBuilder.Entity("FluentAPI_EF.Models.ManyToMany.StudentCourse", b =>
+                {
+                    b.HasOne("FluentAPI_EF.Models.ManyToMany.Course", "Course")
+                        .WithMany("StudentCourses")
+                        .HasForeignKey("CourseId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("FluentAPI_EF.Models.ManyTOMany.Student", "Student")
+                        .WithMany("StudentCourses")
+                        .HasForeignKey("StudentId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Course");
+
+                    b.Navigation("Student");
+                });
+
+            modelBuilder.Entity("FluentAPI_EF.Models.OneTOMany.Patient", b =>
+                {
+                    b.HasOne("FluentAPI_EF.Models.OneTOMany.Doctor", "Doctor")
+                        .WithMany("Patients")
+                        .HasForeignKey("DoctorId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Doctor");
+                });
+
             modelBuilder.Entity("FluentAPI_EF.Models.OneTOOne.CarModel", b =>
                 {
                     b.HasOne("FluentAPI_EF.Models.OneTOOne.CarCompany", "CarCompany")
@@ -68,6 +182,21 @@ namespace FluentAPI_EF.Migrations
                         .IsRequired();
 
                     b.Navigation("CarCompany");
+                });
+
+            modelBuilder.Entity("FluentAPI_EF.Models.ManyTOMany.Student", b =>
+                {
+                    b.Navigation("StudentCourses");
+                });
+
+            modelBuilder.Entity("FluentAPI_EF.Models.ManyToMany.Course", b =>
+                {
+                    b.Navigation("StudentCourses");
+                });
+
+            modelBuilder.Entity("FluentAPI_EF.Models.OneTOMany.Doctor", b =>
+                {
+                    b.Navigation("Patients");
                 });
 
             modelBuilder.Entity("FluentAPI_EF.Models.OneTOOne.CarCompany", b =>

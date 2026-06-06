@@ -16,9 +16,4 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Models\ManyTOMany\" />
-    <Folder Include="Models\OneTOMany\" />
-  </ItemGroup>
-
 </Project>

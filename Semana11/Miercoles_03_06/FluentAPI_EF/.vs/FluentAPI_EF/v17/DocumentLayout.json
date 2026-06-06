@@ -3,28 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\miercoles_03_06\\fluentapi_ef\\repository\\repositoryonetoone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|solutionrelative:repository\\repositoryonetoone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Migrations\\20260604013508_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260604013508_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\miercoles_03_06\\fluentapi_ef\\controllers\\manytomanycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|solutionrelative:controllers\\manytomanycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\miercoles_03_06\\fluentapi_ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\miercoles_03_06\\fluentapi_ef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\miercoles_03_06\\fluentapi_ef\\controllers\\onetomanycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|solutionrelative:controllers\\onetomanycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\miercoles_03_06\\fluentapi_ef\\repository\\repositorymanytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|solutionrelative:repository\\repositorymanytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\miercoles_03_06\\fluentapi_ef\\repository\\repositoryonetomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|solutionrelative:repository\\repositoryonetomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\miercoles_03_06\\fluentapi_ef\\repository\\repositoryonetoone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|solutionrelative:repository\\repositoryonetoone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Migrations\\20260604033319_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260604033319_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\miercoles_03_06\\fluentapi_ef\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\miercoles_03_06\\fluentapi_ef\\models\\manytomany\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|solutionrelative:models\\manytomany\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\miercoles_03_06\\fluentapi_ef\\models\\manytomany\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|solutionrelative:models\\manytomany\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\miercoles_03_06\\fluentapi_ef\\models\\manytomany\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|solutionrelative:models\\manytomany\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\miercoles_03_06\\fluentapi_ef\\controllers\\onetoonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|solutionrelative:controllers\\onetoonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\miercoles_03_06\\fluentapi_ef\\models\\onetomany\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|solutionrelative:models\\onetomany\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\miercoles_03_06\\fluentapi_ef\\models\\onetoone\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|solutionrelative:models\\onetoone\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\miercoles_03_06\\fluentapi_ef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\miercoles_03_06\\fluentapi_ef\\migrations\\20260604013508_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|solutionrelative:migrations\\20260604013508_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana11\\miercoles_03_06\\fluentapi_ef\\migrations\\20260604025148_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B66B5CD4-F8B7-423A-BD54-40ABBFE8F8EC}|FluentAPI_EF.csproj|solutionrelative:migrations\\20260604025148_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,19 +83,185 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RepositoryOneToOne.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Repository\\RepositoryOneToOne.cs",
-              "RelativeDocumentMoniker": "Repository\\RepositoryOneToOne.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Repository\\RepositoryOneToOne.cs",
-              "RelativeToolTip": "Repository\\RepositoryOneToOne.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAuAAAAAAAAAA==",
+              "Title": "ManyToManyController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Controllers\\ManyToManyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ManyToManyController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Controllers\\ManyToManyController.cs",
+              "RelativeToolTip": "Controllers\\ManyToManyController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T01:37:30.255Z",
+              "WhenOpened": "2026-06-04T03:42:27.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositoryManyToMany.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Repository\\RepositoryManyToMany.cs",
+              "RelativeDocumentMoniker": "Repository\\RepositoryManyToMany.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Repository\\RepositoryManyToMany.cs",
+              "RelativeToolTip": "Repository\\RepositoryManyToMany.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T03:34:34.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositoryOneToMany.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Repository\\RepositoryOneToMany.cs",
+              "RelativeDocumentMoniker": "Repository\\RepositoryOneToMany.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Repository\\RepositoryOneToMany.cs",
+              "RelativeToolTip": "Repository\\RepositoryOneToMany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T02:53:11.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OneToManyController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Controllers\\OneToManyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OneToManyController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Controllers\\OneToManyController.cs",
+              "RelativeToolTip": "Controllers\\OneToManyController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T02:57:08.568Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T01:33:21.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260604033319_third.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Migrations\\20260604033319_third.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260604033319_third.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Migrations\\20260604033319_third.cs",
+              "RelativeToolTip": "Migrations\\20260604033319_third.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwDQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T03:33:19.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Models\\ManyToMany\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "Models\\ManyToMany\\StudentCourse.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Models\\ManyToMany\\StudentCourse.cs",
+              "RelativeToolTip": "Models\\ManyToMany\\StudentCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T03:24:10.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Models\\ManyToMany\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\ManyToMany\\Course.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Models\\ManyToMany\\Course.cs",
+              "RelativeToolTip": "Models\\ManyToMany\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T03:23:57.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepositoryOneToOne.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Repository\\RepositoryOneToOne.cs",
+              "RelativeDocumentMoniker": "Repository\\RepositoryOneToOne.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Repository\\RepositoryOneToOne.cs",
+              "RelativeToolTip": "Repository\\RepositoryOneToOne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T02:53:19.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Models\\ManyToMany\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\ManyToMany\\Student.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Models\\ManyToMany\\Student.cs",
+              "RelativeToolTip": "Models\\ManyToMany\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T03:23:25.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260604025148_second.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Migrations\\20260604025148_second.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260604025148_second.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Migrations\\20260604025148_second.cs",
+              "RelativeToolTip": "Migrations\\20260604025148_second.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T02:51:48.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T01:21:10.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OneToOneController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Controllers\\OneToOneController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OneToOneController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Controllers\\OneToOneController.cs",
+              "RelativeToolTip": "Controllers\\OneToOneController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T01:52:26.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Models\\OneTOMany\\Doctor.cs",
+              "RelativeDocumentMoniker": "Models\\OneTOMany\\Doctor.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Models\\OneTOMany\\Doctor.cs",
+              "RelativeToolTip": "Models\\OneTOMany\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T02:45:38.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "20260604013508_initial.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Migrations\\20260604013508_initial.cs",
               "RelativeDocumentMoniker": "Migrations\\20260604013508_initial.cs",
@@ -59,25 +269,11 @@
               "RelativeToolTip": "Migrations\\20260604013508_initial.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T01:35:08.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-04T01:35:08.486Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T01:33:21.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -85,34 +281,19 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-04T01:30:40.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-04T01:30:40.649Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T01:21:10.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "CarModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Models\\OneTOOne\\CarModel.cs",
               "RelativeDocumentMoniker": "Models\\OneTOOne\\CarModel.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana11\\Miercoles_03_06\\FluentAPI_EF\\Models\\OneTOOne\\CarModel.cs",
               "RelativeToolTip": "Models\\OneTOOne\\CarModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T01:17:17.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-04T01:17:17.403Z"
             }
           ]
         }

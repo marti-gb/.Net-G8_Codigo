@@ -1,0 +1,189 @@
+[
+  {
+    "ContainingType": "FluentAPI_EF.Controllers.ManyToManyController",
+    "Method": "AddCourse",
+    "RelativePath": "api/ManyToMany/Course",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "course",
+        "Type": "FluentAPI_EF.Models.ManyToMany.Course",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FluentAPI_EF.Controllers.ManyToManyController",
+    "Method": "GetCoursesAsync",
+    "RelativePath": "api/ManyToMany/Courses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FluentAPI_EF.Controllers.ManyToManyController",
+    "Method": "AddStudent",
+    "RelativePath": "api/ManyToMany/Student",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "student",
+        "Type": "FluentAPI_EF.Models.ManyTOMany.Student",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FluentAPI_EF.Controllers.ManyToManyController",
+    "Method": "AddStudentCourse",
+    "RelativePath": "api/ManyToMany/StudentCourse",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "courseId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FluentAPI_EF.Controllers.ManyToManyController",
+    "Method": "GetStudentCoursesAsync",
+    "RelativePath": "api/ManyToMany/StudentCourses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FluentAPI_EF.Controllers.ManyToManyController",
+    "Method": "GetStudentsAsync",
+    "RelativePath": "api/ManyToMany/Students",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FluentAPI_EF.Controllers.OneToManyController",
+    "Method": "AddDoctor",
+    "RelativePath": "api/OneToMany/Doctor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "doctor",
+        "Type": "FluentAPI_EF.Models.OneTOMany.Doctor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FluentAPI_EF.Controllers.OneToManyController",
+    "Method": "GetDoctorsAsync",
+    "RelativePath": "api/OneToMany/Doctors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FluentAPI_EF.Controllers.OneToManyController",
+    "Method": "AddPatient",
+    "RelativePath": "api/OneToMany/Patient",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "patient",
+        "Type": "FluentAPI_EF.Models.OneTOMany.Patient",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FluentAPI_EF.Controllers.OneToManyController",
+    "Method": "GetPatientsAsync",
+    "RelativePath": "api/OneToMany/Patients",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FluentAPI_EF.Controllers.OneToOneController",
+    "Method": "GetCarCompaniesAsync",
+    "RelativePath": "api/OneToOne/CarCompanies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FluentAPI_EF.Controllers.OneToOneController",
+    "Method": "AddCarCompany",
+    "RelativePath": "api/OneToOne/CarCompany",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "carCompany",
+        "Type": "FluentAPI_EF.Models.OneTOOne.CarCompany",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FluentAPI_EF.Controllers.OneToOneController",
+    "Method": "AddCarModel",
+    "RelativePath": "api/OneToOne/CarModel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "carModel",
+        "Type": "FluentAPI_EF.Models.OneTOOne.CarModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FluentAPI_EF.Controllers.OneToOneController",
+    "Method": "GetCarModelsAsync",
+    "RelativePath": "api/OneToOne/CarModels",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
