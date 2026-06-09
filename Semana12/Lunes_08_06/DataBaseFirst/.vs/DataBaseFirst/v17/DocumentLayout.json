@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana12\\DataBaseFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2E5085-CF24-46A1-84AF-324479CB4CBD}|DataBaseFirst.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana12\\databasefirst\\migrations\\20260609031359_migration_codefirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2E5085-CF24-46A1-84AF-324479CB4CBD}|DataBaseFirst.csproj|solutionrelative:migrations\\20260609031359_migration_codefirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2E5085-CF24-46A1-84AF-324479CB4CBD}|DataBaseFirst.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana12\\databasefirst\\data\\g8databasefirstcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2E5085-CF24-46A1-84AF-324479CB4CBD}|DataBaseFirst.csproj|solutionrelative:data\\g8databasefirstcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2E5085-CF24-46A1-84AF-324479CB4CBD}|DataBaseFirst.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana12\\databasefirst\\data\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2E5085-CF24-46A1-84AF-324479CB4CBD}|DataBaseFirst.csproj|solutionrelative:data\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2E5085-CF24-46A1-84AF-324479CB4CBD}|DataBaseFirst.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana12\\databasefirst\\data\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2E5085-CF24-46A1-84AF-324479CB4CBD}|DataBaseFirst.csproj|solutionrelative:data\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2E5085-CF24-46A1-84AF-324479CB4CBD}|DataBaseFirst.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana12\\databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2E5085-CF24-46A1-84AF-324479CB4CBD}|DataBaseFirst.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2E5085-CF24-46A1-84AF-324479CB4CBD}|DataBaseFirst.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana12\\databasefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B2E5085-CF24-46A1-84AF-324479CB4CBD}|DataBaseFirst.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2E5085-CF24-46A1-84AF-324479CB4CBD}|DataBaseFirst.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana12\\databasefirst\\databasefirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B2E5085-CF24-46A1-84AF-324479CB4CBD}|DataBaseFirst.csproj|solutionrelative:databasefirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260609031359_migration_codefirst.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana12\\DataBaseFirst\\Migrations\\20260609031359_migration_codefirst.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260609031359_migration_codefirst.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana12\\DataBaseFirst\\Migrations\\20260609031359_migration_codefirst.cs",
+              "RelativeToolTip": "Migrations\\20260609031359_migration_codefirst.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T03:14:06.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana12\\DataBaseFirst\\Data\\Usuario.cs",
+              "RelativeDocumentMoniker": "Data\\Usuario.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana12\\DataBaseFirst\\Data\\Usuario.cs",
+              "RelativeToolTip": "Data\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T03:03:41.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana12\\DataBaseFirst\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana12\\DataBaseFirst\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAADwvzwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T01:45:33.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "G8DatabaseFirstContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana12\\DataBaseFirst\\Data\\G8DatabaseFirstContext.cs",
+              "RelativeDocumentMoniker": "Data\\G8DatabaseFirstContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana12\\DataBaseFirst\\Data\\G8DatabaseFirstContext.cs",
+              "RelativeToolTip": "Data\\G8DatabaseFirstContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T01:29:17.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana12\\DataBaseFirst\\Data\\Cliente.cs",
+              "RelativeDocumentMoniker": "Data\\Cliente.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana12\\DataBaseFirst\\Data\\Cliente.cs",
+              "RelativeToolTip": "Data\\Cliente.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T01:29:13.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataBaseFirst",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana12\\DataBaseFirst\\DataBaseFirst.csproj",
+              "RelativeDocumentMoniker": "DataBaseFirst.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana12\\DataBaseFirst\\DataBaseFirst.csproj",
+              "RelativeToolTip": "DataBaseFirst.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-09T01:09:33.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana12\\DataBaseFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana12\\DataBaseFirst\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-09T01:06:12.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
