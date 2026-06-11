@@ -1,0 +1,79 @@
+﻿@using CRUD_MVC.Models.OneToMany
+@model IEnumerable<Patient>
+
+@{
+    ViewData["Title"] = "Lista de Pacientes";
+}
+
+<div class="container mt-4">
+    <div class="text-center mb-4">
+        <h1 class="text-primary">Gestión de Pacientes</h1>
+        <p class="text-muted">Lista de pacientes registrados en el sistema</p>
+    </div>
+
+    <div class="mb-3 text-end">
+        <a asp-action="Create" class="btn btn-primary">
+            + Nuevo Paciente
+        </a>
+    </div>
+
+    <div class="card">
+        <div class="card-header bg-primary text-white">
+            <h4 class="mb-0">Lista de Pacientes</h4>
+        </div>
+
+        <div class="card-body">
+            @if (Model.Count() > 0)
+            {
+                <div class="table-responsive">
+                    <table class="table table-bordered table-hover">
+                        <thead class="table-light">
+                            <tr class="text-center">
+                                <th>ID</th>
+                                <th>Nombre del Paciente</th>
+                                <th>Doctor Asignado</th>
+                                <th>Acciones</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td class="text-center">@item.Id</td>
+                                    <td>@item.Name</td>
+                                    <td class="text-center">
+                                        @if (item.Doctor != null)
+                                        {
+                                            <span class="badge bg-info">Dr. @item.Doctor.Name</span>
+                                        }
+                                        else
+                                        {
+                                            <span class="text-muted">Sin doctor asignado</span>
+                                        }
+                                    </td>
+                                    <td class="text-center">
+                                        <a class="btn btn-sm btn-info" asp-action="Details" asp-route-id="@item.Id">
+                                            Detalle
+                                        </a>
+                                        <a class="btn btn-sm btn-warning" asp-action="Edit" asp-route-id="@item.Id">
+                                            Editar
+                                        </a>
+                                        <a class="btn btn-sm btn-danger" asp-action="Delete" asp-route-id="@item.Id">
+                                            Eliminar
+                                        </a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            }
+            else
+            {
+                <div class="alert alert-info text-center">
+                    No hay pacientes registrados.
+                </div>
+            }
+        </div>
+    </div>
+</div>

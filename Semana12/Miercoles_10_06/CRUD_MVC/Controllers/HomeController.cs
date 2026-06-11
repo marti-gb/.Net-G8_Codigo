@@ -1,6 +1,6 @@
-using System.Diagnostics;
 using CRUD_MVC.Models;
 using Microsoft.AspNetCore.Mvc;
+using System.Diagnostics;
 
 namespace CRUD_MVC.Controllers
 {

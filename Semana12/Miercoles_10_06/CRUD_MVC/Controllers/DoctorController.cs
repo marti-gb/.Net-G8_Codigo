@@ -1,9 +1,7 @@
 ﻿using CRUD_MVC.Data;
 using CRUD_MVC.Models.OneToMany;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using System.Threading.Tasks;
 
 namespace CRUD_MVC.Controllers
 {
@@ -18,8 +16,8 @@ namespace CRUD_MVC.Controllers
         public async Task<ActionResult> Index()
         {
             var doctors = await _context.Doctors
-                .Where(d=>!d.IsDeleted)
-                .Include(d=>d.ListPatients)
+                .Where(d => !d.IsDeleted)
+                .Include(d => d.ListPatients)
                 .ToListAsync();
 
             return View(doctors);
@@ -29,10 +27,10 @@ namespace CRUD_MVC.Controllers
         public async Task<ActionResult> Details(int id)
         {
             var doctor = await _context.Doctors
-                .Include(x=>x.ListPatients)
-                .FirstOrDefaultAsync(p=>p.Id == id && !p.IsDeleted);
+                .Include(x => x.ListPatients)
+                .FirstOrDefaultAsync(p => p.Id == id && !p.IsDeleted);
 
-            if(doctor == null)
+            if (doctor == null)
             {
                 return NotFound();
             }
@@ -50,7 +48,7 @@ namespace CRUD_MVC.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(Doctor doctor)
         {
-            if(ModelState.IsValid)
+            if (ModelState.IsValid)
             {
                 _context.Add(doctor);
                 await _context.SaveChangesAsync();
@@ -64,7 +62,7 @@ namespace CRUD_MVC.Controllers
         public async Task<IActionResult> Edit(int id)
         {
             var doctor = await _context.Doctors.FindAsync(id);
-            if(doctor == null || doctor.IsDeleted)
+            if (doctor == null || doctor.IsDeleted)
             {
                 return NotFound();
             }
@@ -76,11 +74,11 @@ namespace CRUD_MVC.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, Doctor doctor)
         {
-            if(id != doctor.Id)
+            if (id != doctor.Id)
             {
                 return NotFound();
             }
-            if(ModelState.IsValid && !doctor.IsDeleted)
+            if (ModelState.IsValid && !doctor.IsDeleted)
             {
                 try
                 {
@@ -100,7 +98,7 @@ namespace CRUD_MVC.Controllers
         // GET: OneToManyController/Delete/5
         public async Task<IActionResult> Delete(int id)
         {
-            var doctor = await _context.Doctors.FirstOrDefaultAsync(d=>d.Id==id && !d.IsDeleted);
+            var doctor = await _context.Doctors.FirstOrDefaultAsync(d => d.Id == id && !d.IsDeleted);
 
             if (doctor == null)
             {
@@ -116,7 +114,7 @@ namespace CRUD_MVC.Controllers
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             var doctor = await _context.Doctors.FindAsync(id);
-            if(doctor != null)
+            if (doctor != null)
             {
                 doctor.IsDeleted = true;
                 await _context.SaveChangesAsync();

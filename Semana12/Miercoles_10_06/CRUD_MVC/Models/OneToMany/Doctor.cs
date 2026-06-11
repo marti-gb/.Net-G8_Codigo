@@ -1,6 +1,4 @@
-﻿using System.Numerics;
-
-namespace CRUD_MVC.Models.OneToMany
+﻿namespace CRUD_MVC.Models.OneToMany
 {
     public class Doctor
     {

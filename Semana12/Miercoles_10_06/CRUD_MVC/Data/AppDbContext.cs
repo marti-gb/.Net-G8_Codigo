@@ -17,7 +17,7 @@ namespace CRUD_MVC.Data
             modelBuilder.Entity<Doctor>()
                 .HasMany(x => x.ListPatients)
                 .WithOne(x => x.Doctor)
-                .HasForeignKey(s=>s.DoctorId)
+                .HasForeignKey(s => s.DoctorId)
                 .OnDelete(DeleteBehavior.Cascade);
 
             base.OnModelCreating(modelBuilder);
