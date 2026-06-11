@@ -144,3 +144,4 @@ C:\Users\LENOVO\Desktop\.NET-G8\Semana12\Miercoles_10_06\CRUD_MVC\bin\Debug\net8
 C:\Users\LENOVO\Desktop\.NET-G8\Semana12\Miercoles_10_06\CRUD_MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\LENOVO\Desktop\.NET-G8\Semana12\Miercoles_10_06\CRUD_MVC\obj\Debug\net8.0\CRUD_MVC.csproj.AssemblyReference.cache
 C:\Users\LENOVO\Desktop\.NET-G8\Semana12\Miercoles_10_06\CRUD_MVC\obj\Debug\net8.0\CRUD_MVC.csproj.Up2Date
+C:\Users\LENOVO\Desktop\.NET-G8\Semana12\Miercoles_10_06\CRUD_MVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
