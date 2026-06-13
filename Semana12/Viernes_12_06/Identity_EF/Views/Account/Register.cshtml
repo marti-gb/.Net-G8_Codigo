@@ -1,0 +1,74 @@
+﻿@using Identity_EF.ViewModels
+
+@model RegisterVM
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+<div class="row d-flex align-items-center justify-content-center">
+    <div class="col-md-3 card p-3">
+        <h2 class="text-center text-info fs-6">Register</h2>
+        <form asp-action="Register" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="mb-1">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="mb-1">
+                <label asp-for="Nombres" class="control-label"></label>
+                <input asp-for="Nombres" class="form-control" />
+                <span asp-validation-for="Nombres" class="text-danger"></span>
+            </div>
+            <div class="mb-1">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="mb-1">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control" type="password"/>
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="mb-1">
+                <label asp-for="ConfirmPassword" class="control-label"></label>
+                <input asp-for="ConfirmPassword" class="form-control" type="password"/>
+                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+            </div>
+            <div class="mb-1">
+                <label asp-for="Direccion" class="control-label"></label>
+                <textarea asp-for="Direccion" class="form-control" rows="2"></textarea>
+                <span asp-validation-for="Direccion" class="text-danger"></span>
+            </div>
+            <div class="row">
+                <div class="col-8">
+                    <a asp-action="Login" class="text-decoration-none float-start mt-2 small">Have Account?</a>
+                </div>
+                <div class="col-4">
+                    <input type="submit" value="Register" class="btn btn-primary btn-sm float-end" />
+                </div>
+            </div>
+            <div class="mb-1">
+                <label asp-for="SelectedRole" class="control-label"></label>
+                <select asp-for="SelectedRole" asp-items="Model.Roles" class="form-control">
+                    <option value="">-- Select Role --</option>
+                </select>
+                <span asp-validation-for="SelectedRole" class="text-danger"></span>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        //Este método renderiza una vista parcial de forma asíncrona.
+        //En este caso, está renderizando la vista parcial _ValidationScriptsPartial,
+        //que incluye los scripts necesarios para habilitar la validación del lado del cliente.
+
+        //La vista parcial _ValidationScriptsPartial incluye los scripts necesarios para que la
+        // validación del lado del cliente funcione. Esto mejora la experiencia del usuario al
+        // proporcionar mensajes de error inmediatos sin enviar el formulario al servidor.
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
