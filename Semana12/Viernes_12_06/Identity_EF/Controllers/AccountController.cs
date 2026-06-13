@@ -30,17 +30,24 @@ namespace Identity_EF.Controllers
         [ActionName("Login")]
         public async Task<IActionResult> LoginAsync(LoginVM loginVM)
         {
-            if (!ModelState.IsValid)
+            if (ModelState.IsValid)
             {
-                var result = await
+                try
+                {
+                    var user = await _userManager.FindByNameAsync(loginVM.UserName!);
+                    var result = await
                     _signInManager.PasswordSignInAsync(loginVM.UserName!, loginVM.Password!, loginVM.RememberMe, false);
 
-                if (result.Succeeded)
-                {
-                    return RedirectToAction("Index", "Home");
+                    if (result.Succeeded)
+                    {
+                        return RedirectToAction("Index", "Home");
+                    }
                 }
-
-                ModelState.AddModelError("", "Login Invalid");
+                catch (Exception ex)
+                {
+                    ModelState.AddModelError("", ex.Message);
+                }
+                
                 return View(loginVM);
             }
             return View();
@@ -79,6 +86,7 @@ namespace Identity_EF.Controllers
                     {
                         await _userManager.AddToRoleAsync(user, registerVM.SelectedRole);
                     }
+                    return RedirectToAction("Index", "Home");
                 }
 
                 foreach(var error in  result.Errors)
@@ -94,6 +102,13 @@ namespace Identity_EF.Controllers
             }).ToList();
 
             return View(registerVM);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> LogOut()
+        {
+            await _signInManager.SignOutAsync();
+            return RedirectToAction("Index", "Home");
         }
     }
 }
