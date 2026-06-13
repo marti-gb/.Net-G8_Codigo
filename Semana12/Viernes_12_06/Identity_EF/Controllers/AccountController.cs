@@ -57,5 +57,43 @@ namespace Identity_EF.Controllers
 
             return View(model);
         }
+
+        [HttpPost]
+        public async Task<IActionResult> Register(RegisterVM registerVM)
+        {
+            if(ModelState.IsValid)
+            {
+                var user = new AppUser
+                {
+                    UserName = registerVM.Name,
+                    Email = registerVM.Email,
+                    Direccion = registerVM.Direccion,
+                    Nombres = registerVM.Nombres,
+                };
+
+                var result = await _userManager.CreateAsync(user, registerVM.Password!);
+                if (result.Succeeded)
+                {
+                    if (!string.IsNullOrEmpty(registerVM.SelectedRole)
+                        && await _roleManager.RoleExistsAsync(registerVM.SelectedRole))
+                    {
+                        await _userManager.AddToRoleAsync(user, registerVM.SelectedRole);
+                    }
+                }
+
+                foreach(var error in  result.Errors)
+                {
+                    ModelState.AddModelError("", error.Description);
+                }
+            }
+
+            registerVM.Roles = _roleManager.Roles.Select(x => new SelectListItem
+            {
+                Value = x.Name,
+                Text = x.Name
+            }).ToList();
+
+            return View(registerVM);
+        }
     }
 }

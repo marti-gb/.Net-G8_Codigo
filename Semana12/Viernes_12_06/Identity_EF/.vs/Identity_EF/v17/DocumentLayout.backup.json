@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana12\\Viernes_12_06\\Identity_EF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A449FD56-A8E2-4A69-A24B-76367925AD60}|Identity_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana12\\viernes_12_06\\identity_ef\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A449FD56-A8E2-4A69-A24B-76367925AD60}|Identity_EF.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A449FD56-A8E2-4A69-A24B-76367925AD60}|Identity_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana12\\viernes_12_06\\identity_ef\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A449FD56-A8E2-4A69-A24B-76367925AD60}|Identity_EF.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A449FD56-A8E2-4A69-A24B-76367925AD60}|Identity_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana12\\viernes_12_06\\identity_ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A449FD56-A8E2-4A69-A24B-76367925AD60}|Identity_EF.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A449FD56-A8E2-4A69-A24B-76367925AD60}|Identity_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana12\\viernes_12_06\\identity_ef\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A449FD56-A8E2-4A69-A24B-76367925AD60}|Identity_EF.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A449FD56-A8E2-4A69-A24B-76367925AD60}|Identity_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana12\\viernes_12_06\\identity_ef\\utils\\roleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A449FD56-A8E2-4A69-A24B-76367925AD60}|Identity_EF.csproj|solutionrelative:utils\\roleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A449FD56-A8E2-4A69-A24B-76367925AD60}|Identity_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana12\\viernes_12_06\\identity_ef\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A449FD56-A8E2-4A69-A24B-76367925AD60}|Identity_EF.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A449FD56-A8E2-4A69-A24B-76367925AD60}|Identity_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana12\\viernes_12_06\\identity_ef\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A449FD56-A8E2-4A69-A24B-76367925AD60}|Identity_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana12\\viernes_12_06\\identity_ef\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A449FD56-A8E2-4A69-A24B-76367925AD60}|Identity_EF.csproj|solutionrelative:viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A449FD56-A8E2-4A69-A24B-76367925AD60}|Identity_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana12\\viernes_12_06\\identity_ef\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A449FD56-A8E2-4A69-A24B-76367925AD60}|Identity_EF.csproj|solutionrelative:viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A449FD56-A8E2-4A69-A24B-76367925AD60}|Identity_EF.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana12\\viernes_12_06\\identity_ef\\migrations\\20260613003416_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +58,46 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "RoleInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana12\\Viernes_12_06\\Identity_EF\\Utils\\RoleInitializer.cs",
+              "RelativeDocumentMoniker": "Utils\\RoleInitializer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana12\\Viernes_12_06\\Identity_EF\\Utils\\RoleInitializer.cs",
+              "RelativeToolTip": "Utils\\RoleInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T01:51:27.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana12\\Viernes_12_06\\Identity_EF\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana12\\Viernes_12_06\\Identity_EF\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA1wDYAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T00:57:55.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana12\\Viernes_12_06\\Identity_EF\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana12\\Viernes_12_06\\Identity_EF\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-13T01:38:16.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana12\\Viernes_12_06\\Identity_EF\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -66,25 +105,11 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-13T01:30:04.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T01:30:04.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana12\\Viernes_12_06\\Identity_EF\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana12\\Viernes_12_06\\Identity_EF\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T01:23:37.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana12\\Viernes_12_06\\Identity_EF\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
@@ -92,37 +117,11 @@
               "RelativeToolTip": "Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-13T01:18:53.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana12\\Viernes_12_06\\Identity_EF\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana12\\Viernes_12_06\\Identity_EF\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T00:57:55.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T01:18:53.7Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "RegisterVM.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana12\\Viernes_12_06\\Identity_EF\\ViewModels\\RegisterVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\RegisterVM.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana12\\Viernes_12_06\\Identity_EF\\ViewModels\\RegisterVM.cs",
-              "RelativeToolTip": "ViewModels\\RegisterVM.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T00:49:03.951Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "LoginVM.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana12\\Viernes_12_06\\Identity_EF\\ViewModels\\LoginVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\LoginVM.cs",
@@ -152,7 +151,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana12\\Viernes_12_06\\Identity_EF\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-13T00:32:13.796Z",
               "EditorCaption": ""

@@ -1,5 +1,6 @@
 using Identity_EF.Data;
 using Identity_EF.Models;
+using Identity_EF.Utils;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -23,6 +24,12 @@ builder.Services.AddIdentity<AppUser, IdentityRole>(
     .AddDefaultTokenProviders()
     .AddSignInManager();
 var app = builder.Build();
+
+using(var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    await RoleInitializer.CreateRoles(services);
+}
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
