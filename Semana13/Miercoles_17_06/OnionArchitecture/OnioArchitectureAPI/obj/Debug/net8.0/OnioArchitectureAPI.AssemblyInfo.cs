@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OnioArchitectureAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d05f9c59c47ede54db1edc14cb4872435ff1303e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+349db0d21cdacb1b2ba97e2340e6b0790d3476b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("OnioArchitectureAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OnioArchitectureAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

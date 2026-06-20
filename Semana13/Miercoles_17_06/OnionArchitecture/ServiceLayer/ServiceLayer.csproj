@@ -10,8 +10,4 @@
     <ProjectReference Include="..\InfraestructreLayer\InfraestructureLayer.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Implementations\" />
-  </ItemGroup>
-
 </Project>
