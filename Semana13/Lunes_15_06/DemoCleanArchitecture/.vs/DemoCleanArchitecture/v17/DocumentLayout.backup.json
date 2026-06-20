@@ -3,20 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Lunes_15_06\\DemoCleanArchitecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Lunes_15_06\\DemoCleanArchitecture\\InfraestructureLayer\\Migrations\\20260616025606_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InfraestructureLayer\\Migrations\\20260616025606_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBC5F62F-59BD-46CE-8EE6-18978EBFD2BC}|ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana13\\lunes_15_06\\democleanarchitecture\\applicationlayer\\implementations\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBC5F62F-59BD-46CE-8EE6-18978EBFD2BC}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\implementations\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4C7D4A7-5E2F-4BED-9769-81137334DE80}|WebAssembly\\WebAssembly.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana13\\lunes_15_06\\democleanarchitecture\\webassembly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C7D4A7-5E2F-4BED-9769-81137334DE80}|WebAssembly\\WebAssembly.csproj|solutionrelative:webassembly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9EE52C77-DA2F-4157-B4CB-34961FA7A9BA}|WebAPI\\WebAPI.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana13\\lunes_15_06\\democleanarchitecture\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EE52C77-DA2F-4157-B4CB-34961FA7A9BA}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F4C7D4A7-5E2F-4BED-9769-81137334DE80}|WebAssembly\\WebAssembly.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana13\\lunes_15_06\\democleanarchitecture\\webassembly\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4C7D4A7-5E2F-4BED-9769-81137334DE80}|WebAssembly\\WebAssembly.csproj|solutionrelative:webassembly\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC5F62F-59BD-46CE-8EE6-18978EBFD2BC}|ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana13\\lunes_15_06\\democleanarchitecture\\applicationlayer\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC5F62F-59BD-46CE-8EE6-18978EBFD2BC}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC5F62F-59BD-46CE-8EE6-18978EBFD2BC}|ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana13\\lunes_15_06\\democleanarchitecture\\applicationlayer\\service\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC5F62F-59BD-46CE-8EE6-18978EBFD2BC}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\service\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C7D4A7-5E2F-4BED-9769-81137334DE80}|WebAssembly\\WebAssembly.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana13\\lunes_15_06\\democleanarchitecture\\webassembly\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4C7D4A7-5E2F-4BED-9769-81137334DE80}|WebAssembly\\WebAssembly.csproj|solutionrelative:webassembly\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE52C77-DA2F-4157-B4CB-34961FA7A9BA}|WebAPI\\WebAPI.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana13\\lunes_15_06\\democleanarchitecture\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EE52C77-DA2F-4157-B4CB-34961FA7A9BA}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE52C77-DA2F-4157-B4CB-34961FA7A9BA}|WebAPI\\WebAPI.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana13\\lunes_15_06\\democleanarchitecture\\webapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE52C77-DA2F-4157-B4CB-34961FA7A9BA}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2462C75-EA49-4D9A-82F3-00BAC5984ABE}|InfraestructureLayer\\InfraestructureLayer.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana13\\lunes_15_06\\democleanarchitecture\\infraestructurelayer\\contracts\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2462C75-EA49-4D9A-82F3-00BAC5984ABE}|InfraestructureLayer\\InfraestructureLayer.csproj|solutionrelative:infraestructurelayer\\contracts\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2462C75-EA49-4D9A-82F3-00BAC5984ABE}|InfraestructureLayer\\InfraestructureLayer.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana13\\lunes_15_06\\democleanarchitecture\\infraestructurelayer\\dto\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2462C75-EA49-4D9A-82F3-00BAC5984ABE}|InfraestructureLayer\\InfraestructureLayer.csproj|solutionrelative:infraestructurelayer\\dto\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9EE52C77-DA2F-4157-B4CB-34961FA7A9BA}|WebAPI\\WebAPI.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana13\\lunes_15_06\\democleanarchitecture\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9EE52C77-DA2F-4157-B4CB-34961FA7A9BA}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2462C75-EA49-4D9A-82F3-00BAC5984ABE}|InfraestructureLayer\\InfraestructureLayer.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana13\\lunes_15_06\\democleanarchitecture\\infraestructurelayer\\migrations\\20260616025606_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2462C75-EA49-4D9A-82F3-00BAC5984ABE}|InfraestructureLayer\\InfraestructureLayer.csproj|solutionrelative:infraestructurelayer\\migrations\\20260616025606_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +58,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 198,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Lunes_15_06\\DemoCleanArchitecture\\WebAssembly\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "WebAssembly\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Lunes_15_06\\DemoCleanArchitecture\\WebAssembly\\Pages\\Home.razor",
+              "RelativeToolTip": "WebAssembly\\Pages\\Home.razor",
+              "ViewState": "AgIAADoAAAAAAAAAAAAiwF4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-16T04:16:01.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Lunes_15_06\\DemoCleanArchitecture\\WebAssembly\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebAssembly\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Lunes_15_06\\DemoCleanArchitecture\\WebAssembly\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebAssembly\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-16T04:12:44.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Lunes_15_06\\DemoCleanArchitecture\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Lunes_15_06\\DemoCleanArchitecture\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-16T04:10:16.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20260616025606_initial.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Lunes_15_06\\DemoCleanArchitecture\\InfraestructureLayer\\Migrations\\20260616025606_initial.cs",
-              "RelativeDocumentMoniker": "InfraestructureLayer\\Migrations\\20260616025606_initial.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Lunes_15_06\\DemoCleanArchitecture\\InfraestructureLayer\\Migrations\\20260616025606_initial.cs",
-              "RelativeToolTip": "InfraestructureLayer\\Migrations\\20260616025606_initial.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Lunes_15_06\\DemoCleanArchitecture\\WebAssembly\\Program.cs",
+              "RelativeDocumentMoniker": "WebAssembly\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Lunes_15_06\\DemoCleanArchitecture\\WebAssembly\\Program.cs",
+              "RelativeToolTip": "WebAssembly\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-16T02:56:06.53Z",
+              "WhenOpened": "2026-06-16T04:09:55.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Lunes_15_06\\DemoCleanArchitecture\\InfraestructureLayer\\Contracts\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "InfraestructureLayer\\Contracts\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Lunes_15_06\\DemoCleanArchitecture\\InfraestructureLayer\\Contracts\\IEmployeeRepository.cs",
+              "RelativeToolTip": "InfraestructureLayer\\Contracts\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T04:04:34.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Lunes_15_06\\DemoCleanArchitecture\\ApplicationLayer\\Service\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Service\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Lunes_15_06\\DemoCleanArchitecture\\ApplicationLayer\\Service\\IEmployeeService.cs",
+              "RelativeToolTip": "ApplicationLayer\\Service\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T04:00:39.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Lunes_15_06\\DemoCleanArchitecture\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Lunes_15_06\\DemoCleanArchitecture\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T02:41:13.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Lunes_15_06\\DemoCleanArchitecture\\ApplicationLayer\\Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Service\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Lunes_15_06\\DemoCleanArchitecture\\ApplicationLayer\\Service\\EmployeeService.cs",
+              "RelativeToolTip": "ApplicationLayer\\Service\\EmployeeService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T04:26:40.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Lunes_15_06\\DemoCleanArchitecture\\WebAPI\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Lunes_15_06\\DemoCleanArchitecture\\WebAPI\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T04:08:42.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceResponse.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Lunes_15_06\\DemoCleanArchitecture\\InfraestructureLayer\\Dto\\ServiceResponse.cs",
+              "RelativeDocumentMoniker": "InfraestructureLayer\\Dto\\ServiceResponse.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Lunes_15_06\\DemoCleanArchitecture\\InfraestructureLayer\\Dto\\ServiceResponse.cs",
+              "RelativeToolTip": "InfraestructureLayer\\Dto\\ServiceResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T03:56:35.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Lunes_15_06\\DemoCleanArchitecture\\WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
@@ -51,34 +200,19 @@
               "RelativeToolTip": "WebAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-16T02:43:18.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-16T02:43:18.894Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Lunes_15_06\\DemoCleanArchitecture\\WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Lunes_15_06\\DemoCleanArchitecture\\WebAPI\\Program.cs",
-              "RelativeToolTip": "WebAPI\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwB8AAAAKAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "20260616025606_initial.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Lunes_15_06\\DemoCleanArchitecture\\InfraestructureLayer\\Migrations\\20260616025606_initial.cs",
+              "RelativeDocumentMoniker": "InfraestructureLayer\\Migrations\\20260616025606_initial.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Lunes_15_06\\DemoCleanArchitecture\\InfraestructureLayer\\Migrations\\20260616025606_initial.cs",
+              "RelativeToolTip": "InfraestructureLayer\\Migrations\\20260616025606_initial.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-16T02:41:13.783Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Lunes_15_06\\DemoCleanArchitecture\\ApplicationLayer\\Implementations\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "ApplicationLayer\\Implementations\\EmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana13\\Lunes_15_06\\DemoCleanArchitecture\\ApplicationLayer\\Implementations\\EmployeeRepository.cs",
-              "RelativeToolTip": "ApplicationLayer\\Implementations\\EmployeeRepository.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA1wD8AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-16T01:27:30.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-16T02:56:06.53Z"
             }
           ]
         }

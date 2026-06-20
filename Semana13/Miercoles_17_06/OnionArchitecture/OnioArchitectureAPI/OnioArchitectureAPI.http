@@ -1,0 +1,6 @@
+@OnioArchitectureAPI_HostAddress = http://localhost:5075
+
+GET {{OnioArchitectureAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

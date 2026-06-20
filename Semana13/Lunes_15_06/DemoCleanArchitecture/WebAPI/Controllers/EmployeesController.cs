@@ -17,14 +17,14 @@ namespace WebAPI.Controllers
         [HttpGet]
         public async Task<IActionResult> GetAll()
         {
-            var employees = _employeeRepository.GetALLAsync();
+            var employees = await _employeeRepository.GetALLAsync();
             return Ok(employees);
         }
 
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById(int id)
         {
-            var employee = _employeeRepository.GetByIdAsync(id);
+            var employee = await _employeeRepository.GetByIdAsync(id);
             if (employee == null)
             {
                 return NotFound();
@@ -35,21 +35,21 @@ namespace WebAPI.Controllers
         [HttpPost]
         public async Task<IActionResult> Add([FromBody] Employee employee)
         {
-            var response = _employeeRepository.AddAsync(employee);
+            var response = await _employeeRepository.AddAsync(employee);
             return Ok(response);
         }
 
         [HttpPut]
         public async Task<IActionResult> Edit([FromBody] Employee employee)
         {
-            var response = _employeeRepository.UpdateAsync(employee);
+            var response = await _employeeRepository.UpdateAsync(employee);
             return Ok(response);
         }
 
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int id)
         {
-            var response = _employeeRepository.DeleteAsync(id);
+            var response = await _employeeRepository.DeleteAsync(id);
             return Ok(response);
         }
     }
