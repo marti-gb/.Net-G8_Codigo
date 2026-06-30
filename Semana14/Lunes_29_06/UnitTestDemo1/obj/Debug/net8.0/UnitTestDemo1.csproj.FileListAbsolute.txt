@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Lunes_29_06\UnitTestDemo1\bin\Debug\net8.0\UnitTestDemo1.exe
+C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Lunes_29_06\UnitTestDemo1\bin\Debug\net8.0\UnitTestDemo1.deps.json
+C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Lunes_29_06\UnitTestDemo1\bin\Debug\net8.0\UnitTestDemo1.runtimeconfig.json
+C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Lunes_29_06\UnitTestDemo1\bin\Debug\net8.0\UnitTestDemo1.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Lunes_29_06\UnitTestDemo1\bin\Debug\net8.0\UnitTestDemo1.pdb
+C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Lunes_29_06\UnitTestDemo1\obj\Debug\net8.0\UnitTestDemo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Lunes_29_06\UnitTestDemo1\obj\Debug\net8.0\UnitTestDemo1.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Lunes_29_06\UnitTestDemo1\obj\Debug\net8.0\UnitTestDemo1.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Lunes_29_06\UnitTestDemo1\obj\Debug\net8.0\UnitTestDemo1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Lunes_29_06\UnitTestDemo1\obj\Debug\net8.0\UnitTestDemo1.sourcelink.json
+C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Lunes_29_06\UnitTestDemo1\obj\Debug\net8.0\UnitTestDemo1.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Lunes_29_06\UnitTestDemo1\obj\Debug\net8.0\refint\UnitTestDemo1.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Lunes_29_06\UnitTestDemo1\obj\Debug\net8.0\UnitTestDemo1.pdb
+C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Lunes_29_06\UnitTestDemo1\obj\Debug\net8.0\UnitTestDemo1.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana14\Lunes_29_06\UnitTestDemo1\obj\Debug\net8.0\ref\UnitTestDemo1.dll
