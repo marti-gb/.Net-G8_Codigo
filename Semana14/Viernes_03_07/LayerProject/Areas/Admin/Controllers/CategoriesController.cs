@@ -17,5 +17,13 @@ namespace LayerProject.Areas.Admin.Controllers
         {
             return View();
         }
+
+        #region Call Apis
+        [HttpGet]
+        public IActionResult GetALL()
+        {
+            return Json(new { data = _unitOfWork.ICategoryRepository.GetAll(x => !x.IsDeleted) });
+        }
+        #endregion
     }
 }
