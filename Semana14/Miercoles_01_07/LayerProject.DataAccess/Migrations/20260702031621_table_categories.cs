@@ -20,6 +20,7 @@ namespace LayerProject.Data.Migrations
                     Order = table.Column<int>(type: "int", nullable: true)
                 },
                 constraints: table =>
+
                 {
                     table.PrimaryKey("PK_Categories", x => x.Id);
                 });
