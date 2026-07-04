@@ -22,7 +22,7 @@ namespace LayerProject.DataAccess.Data.Repository
             }
 
         }
-        public void Remove(int id)
+        public void Delete(int id)
         {
             var categoryFromDb = _db.Categories.FirstOrDefault(x => x.Id == id);
             if (categoryFromDb != null)

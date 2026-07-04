@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LayerProject.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84138b035d6a2dd0e1d78810bc5de4fc68d7fa3e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2287ab92709ecc86bffea9facb568b0eb9c39ac9")]
 [assembly: System.Reflection.AssemblyProductAttribute("LayerProject.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LayerProject.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

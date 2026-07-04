@@ -78,6 +78,32 @@ namespace LayerProject.Areas.Admin.Controllers
         }
         #endregion
 
+
+        #region Delete
+        [HttpDelete]
+        public IActionResult Delete(int id)
+        {
+            if (id <= 0)
+            {
+                return BadRequest();
+            }
+            else
+            {
+                Category category = new Category();
+                category = _unitOfWork.ICategoryRepository.GetFirstOrDefault(x=>x.Id==id && !x.IsDeleted);
+                if (category != null)
+                {
+                    _unitOfWork.ICategoryRepository.Delete(id);
+                    _unitOfWork.Save();
+                    return Json(new { success = true, message = "Categoria eliminada exitosamente" });
+                }
+                else
+                {
+                    return Json(new { success = false, message = "La categoria no existe" });
+                }
+            }
+        }
+        #endregion
         #region Call Apis
         [HttpGet]
         public IActionResult GetALL()
