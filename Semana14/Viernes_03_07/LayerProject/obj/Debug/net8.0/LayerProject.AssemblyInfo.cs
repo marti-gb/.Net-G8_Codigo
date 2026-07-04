@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LayerProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ebfcb8bfad3551b829dc6800b4d9dec8473cf40")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92e00654e035d68980fcfe384633365fb7e9c03f")]
 [assembly: System.Reflection.AssemblyProductAttribute("LayerProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LayerProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
