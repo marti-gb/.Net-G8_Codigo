@@ -4,7 +4,7 @@ namespace LayerProject.DataAccess.Data.Repository.IRepository
 {
     public interface IRepository<T> where T : class
     {
-        T Get(int id);
+        T GetById(int id);
 
         IEnumerable<T> GetAll(
             Expression<Func<T, bool>>? filter = null,

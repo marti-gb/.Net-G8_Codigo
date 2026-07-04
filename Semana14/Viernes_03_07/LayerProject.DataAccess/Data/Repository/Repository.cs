@@ -65,7 +65,7 @@ namespace LayerProject.DataAccess.Data.Repository
             return query.FirstOrDefault();
         }
 
-        public T Get(int id)
+        public T GetById(int id)
         {
             return dbSet.Find(id);
         }
