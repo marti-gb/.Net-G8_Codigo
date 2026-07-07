@@ -1,5 +1,6 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\images\articles\2c9e2996-4a0a-4258-a9b8-2d5816972a64.jpg
 wwwroot\js\article.js
 wwwroot\js\category.js
 wwwroot\js\site.js

@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{5296FCF0-E254-4149-BB1A-CCD7CA5551D2}|LayerProject.csproj|solutionrelative:areas\\admin\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5296FCF0-E254-4149-BB1A-CCD7CA5551D2}|LayerProject.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana15\\lunes_06_07\\layerproject\\areas\\admin\\views\\articles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5296FCF0-E254-4149-BB1A-CCD7CA5551D2}|LayerProject.csproj|solutionrelative:areas\\admin\\views\\articles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{145639F8-A20F-472A-BD2C-7F797946622B}|..\\LayerProject.DataAccess\\LayerProject.DataAccess.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana15\\lunes_06_07\\layerproject.dataaccess\\data\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -137,11 +141,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 202,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana15\\Lunes_06_07\\LayerProject\\Areas\\Admin\\Views\\Articles\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Articles\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana15\\Lunes_06_07\\LayerProject\\Areas\\Admin\\Views\\Articles\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Articles\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-07T02:55:20.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana15\\Lunes_06_07\\LayerProject.DataAccess\\Data\\Repository\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "..\\LayerProject.DataAccess\\Data\\Repository\\CategoryRepository.cs",
@@ -149,8 +166,7 @@
               "RelativeToolTip": "..\\LayerProject.DataAccess\\Data\\Repository\\CategoryRepository.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAA6wCYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T01:48:52.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T01:48:52.795Z"
             },
             {
               "$type": "Document",
@@ -160,14 +176,14 @@
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ArticlesController.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana15\\Lunes_06_07\\LayerProject\\Areas\\Admin\\Controllers\\ArticlesController.cs",
               "RelativeToolTip": "Areas\\Admin\\Controllers\\ArticlesController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDEAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAUwHoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-07T01:46:26.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana15\\Lunes_06_07\\LayerProject\\Areas\\Admin\\Views\\Articles\\Create.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Articles\\Create.cshtml",
@@ -175,12 +191,11 @@
               "RelativeToolTip": "Areas\\Admin\\Views\\Articles\\Create.cshtml",
               "ViewState": "AgIAAD8AAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-07T01:33:04.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T01:33:04.579Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana15\\Lunes_06_07\\LayerProject\\Areas\\Admin\\Views\\Articles\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Articles\\Index.cshtml",
@@ -188,12 +203,11 @@
               "RelativeToolTip": "Areas\\Admin\\Views\\Articles\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-07T00:59:08.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T00:59:08.631Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "article.js",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana15\\Lunes_06_07\\LayerProject\\wwwroot\\js\\article.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\article.js",
@@ -205,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Article.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana15\\Lunes_06_07\\LayerProject.Models\\Article.cs",
               "RelativeDocumentMoniker": "..\\LayerProject.Models\\Article.cs",
@@ -217,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana15\\Lunes_06_07\\LayerProject.DataAccess\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "..\\LayerProject.DataAccess\\Data\\ApplicationDbContext.cs",
@@ -225,12 +239,11 @@
               "RelativeToolTip": "..\\LayerProject.DataAccess\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T00:34:23.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T00:34:23.876Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ArticleCategoryViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana15\\Lunes_06_07\\LayerProject.Models\\ViewModel\\ArticleCategoryViewModel.cs",
               "RelativeDocumentMoniker": "..\\LayerProject.Models\\ViewModel\\ArticleCategoryViewModel.cs",
@@ -238,12 +251,11 @@
               "RelativeToolTip": "..\\LayerProject.Models\\ViewModel\\ArticleCategoryViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T01:34:51.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T01:34:51.121Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana15\\Lunes_06_07\\LayerProject\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -255,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana15\\Lunes_06_07\\LayerProject\\Areas\\Admin\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CategoriesController.cs",
@@ -263,12 +275,11 @@
               "RelativeToolTip": "Areas\\Admin\\Controllers\\CategoriesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T01:38:23.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-04T01:38:23.584Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana15\\Lunes_06_07\\LayerProject.DataAccess\\Data\\Repository\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "..\\LayerProject.DataAccess\\Data\\Repository\\UnitOfWork.cs",
@@ -280,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "20260707011101_table_articles.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana15\\Lunes_06_07\\LayerProject.DataAccess\\Migrations\\20260707011101_table_articles.cs",
               "RelativeDocumentMoniker": "..\\LayerProject.DataAccess\\Migrations\\20260707011101_table_articles.cs",
@@ -292,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ArticleRepository.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana15\\Lunes_06_07\\LayerProject.DataAccess\\Data\\Repository\\ArticleRepository.cs",
               "RelativeDocumentMoniker": "..\\LayerProject.DataAccess\\Data\\Repository\\ArticleRepository.cs",
@@ -304,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "IArticleRepository.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana15\\Lunes_06_07\\LayerProject.DataAccess\\Data\\Repository\\IRepository\\IArticleRepository.cs",
               "RelativeDocumentMoniker": "..\\LayerProject.DataAccess\\Data\\Repository\\IRepository\\IArticleRepository.cs",
@@ -316,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana14\\Viernes_03_07\\LayerProject.DataAccess\\Data\\Repository\\Repository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Semana14\\Viernes_03_07\\LayerProject.DataAccess\\Data\\Repository\\Repository.cs",
@@ -328,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana15\\Lunes_06_07\\LayerProject\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Categories\\Index.cshtml",
@@ -340,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana15\\Lunes_06_07\\LayerProject\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Categories\\Create.cshtml",
@@ -352,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana15\\Lunes_06_07\\LayerProject\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -364,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana15\\Lunes_06_07\\LayerProject\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Categories\\Edit.cshtml",
@@ -376,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana14\\Viernes_03_07\\LayerProject.DataAccess\\Data\\Repository\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Semana14\\Viernes_03_07\\LayerProject.DataAccess\\Data\\Repository\\CategoryRepository.cs",
@@ -388,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana14\\Viernes_03_07\\LayerProject.DataAccess\\Data\\Repository\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Semana14\\Viernes_03_07\\LayerProject.DataAccess\\Data\\Repository\\UnitOfWork.cs",
@@ -400,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "20260702031621_table_categories.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana14\\Miercoles_01_07\\LayerProject.DataAccess\\Migrations\\20260702031621_table_categories.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Semana14\\Miercoles_01_07\\LayerProject.DataAccess\\Migrations\\20260702031621_table_categories.cs",
@@ -412,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana14\\Miercoles_01_07\\LayerProject.DataAccess\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Semana14\\Miercoles_01_07\\LayerProject.DataAccess\\Data\\ApplicationDbContext.cs",
@@ -424,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana14\\Miercoles_01_07\\LayerProject.Models\\Category.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Semana14\\Miercoles_01_07\\LayerProject.Models\\Category.cs",
@@ -436,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "00000000000000_CreateIdentitySchema.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana14\\Miercoles_01_07\\LayerProject.DataAccess\\Migrations\\00000000000000_CreateIdentitySchema.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Semana14\\Miercoles_01_07\\LayerProject.DataAccess\\Migrations\\00000000000000_CreateIdentitySchema.cs",
@@ -448,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana15\\Lunes_06_07\\LayerProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -460,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana15\\Lunes_06_07\\LayerProject\\Areas\\Customer\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Areas\\Customer\\Controllers\\HomeController.cs",
@@ -472,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana14\\Miercoles_01_07\\LayerProject.Utilities\\Class1.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Semana14\\Miercoles_01_07\\LayerProject.Utilities\\Class1.cs",
@@ -484,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana15\\Lunes_06_07\\LayerProject\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -496,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana15\\Lunes_06_07\\LayerProject\\Areas\\Customer\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Areas\\Customer\\Views\\_ViewImports.cshtml",
@@ -508,7 +519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "bootstrap5.min.css",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana15\\Lunes_06_07\\LayerProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
               "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
@@ -520,7 +531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana14\\Miercoles_01_07\\LayerProject.Models\\Class1.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Semana14\\Miercoles_01_07\\LayerProject.Models\\Class1.cs",
@@ -532,7 +543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana15\\Lunes_06_07\\LayerProject\\Areas\\Customer\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Areas\\Customer\\Views\\_ViewStart.cshtml",
@@ -544,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana15\\Lunes_06_07\\LayerProject\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -556,7 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana15\\Lunes_06_07\\LayerProject\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
@@ -568,7 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana15\\Lunes_06_07\\LayerProject\\Areas\\Customer\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Home\\Index.cshtml",
