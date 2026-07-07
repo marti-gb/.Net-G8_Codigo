@@ -1,6 +1,7 @@
 ﻿using LayerProject.Data;
 using LayerProject.DataAccess.Data.Repository.IRepository;
 using LayerProject.Models;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace LayerProject.DataAccess.Data.Repository
 {
@@ -32,6 +33,15 @@ namespace LayerProject.DataAccess.Data.Repository
             }
         }
 
-
+        public IEnumerable<SelectListItem> GetListCategories()
+        {
+            return _db.Categories
+            .Where(x => !x.IsDeleted)
+            .Select(x => new SelectListItem()
+            {
+                Text = x.Name,
+                Value = x.Id.ToString()
+            });
+        }
     }
 }

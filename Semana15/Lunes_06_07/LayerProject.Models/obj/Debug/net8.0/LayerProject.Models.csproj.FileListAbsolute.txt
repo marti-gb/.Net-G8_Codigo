@@ -34,3 +34,4 @@ C:\Users\LENOVO\Desktop\.NET-G8\Semana15\Lunes_06_07\LayerProject.Models\obj\Deb
 C:\Users\LENOVO\Desktop\.NET-G8\Semana15\Lunes_06_07\LayerProject.Models\obj\Debug\net8.0\refint\LayerProject.Models.dll
 C:\Users\LENOVO\Desktop\.NET-G8\Semana15\Lunes_06_07\LayerProject.Models\obj\Debug\net8.0\LayerProject.Models.pdb
 C:\Users\LENOVO\Desktop\.NET-G8\Semana15\Lunes_06_07\LayerProject.Models\obj\Debug\net8.0\ref\LayerProject.Models.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana15\Lunes_06_07\LayerProject.Models\obj\Debug\net8.0\LayerProject.Models.csproj.AssemblyReference.cache

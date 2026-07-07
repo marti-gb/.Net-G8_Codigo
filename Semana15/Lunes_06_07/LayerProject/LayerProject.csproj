@@ -21,4 +21,8 @@
     <ProjectReference Include="..\LayerProject.Models\LayerProject.Models.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\images\articles\" />
+  </ItemGroup>
+
 </Project>
