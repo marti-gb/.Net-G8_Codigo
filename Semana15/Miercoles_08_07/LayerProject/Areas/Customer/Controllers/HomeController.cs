@@ -1,4 +1,6 @@
+using LayerProject.DataAccess.Data.Repository.IRepository;
 using LayerProject.Models;
+using LayerProject.Models.ViewModel;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -7,16 +9,21 @@ namespace LayerProject.Areas.Customer.Controllers
     [Area("Customer")]
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly IUnitOfWork _unitOfWork;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(IUnitOfWork unitOfWork)
         {
-            _logger = logger;
+            _unitOfWork = unitOfWork;
         }
 
         public IActionResult Index()
         {
-            return View();
+            HomeViewModel homeViewModel = new HomeViewModel()
+            {
+                listArticles = _unitOfWork.IArticleRepository.GetAll(includeProperties: "Category"),
+                listSliders = _unitOfWork.ISliderRepository.GetAll()
+            };
+            return View(homeViewModel);
         }
 
         public IActionResult Privacy()

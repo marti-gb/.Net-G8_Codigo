@@ -133,6 +133,31 @@ namespace LayerProject.Areas.Admin.Controllers
         {
             return Json(new {data = _unitOfWork.ISliderRepository.GetAll(x=>!x.IsDeleted)});
         }
+
+        [HttpDelete]
+        public IActionResult Delete(int id)
+        {
+            var sliderFromDb = _unitOfWork.ISliderRepository.GetById(id);
+            string mainRoute = _webHostEnvironment.WebRootPath;
+
+            var pathOldImage = Path.Combine(mainRoute, sliderFromDb.UrlImage.TrimStart('\\'));
+
+            //Comprobamos que la imagen existe
+            if (System.IO.File.Exists(pathOldImage))
+            {
+                System.IO.File.Delete(pathOldImage);
+            }
+
+            if(sliderFromDb == null)
+            {
+                return Json(new {success  = false, message = "El slider no existe"});
+            }
+
+            _unitOfWork.ISliderRepository.Delete(id);
+            _unitOfWork.Save();
+
+            return Json(new { success = true, message = "El slider se elimino correctamente" });
+        }
         #endregion
     }
 }
