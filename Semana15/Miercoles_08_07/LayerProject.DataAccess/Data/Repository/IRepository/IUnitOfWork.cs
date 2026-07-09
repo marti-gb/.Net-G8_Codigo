@@ -4,6 +4,7 @@
     {
         ICategoryRepository ICategoryRepository { get; }
         IArticleRepository IArticleRepository { get; }
+        ISliderRepository ISliderRepository { get; }
         void Save();
     }
 }

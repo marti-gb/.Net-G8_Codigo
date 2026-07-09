@@ -3,6 +3,7 @@ wwwroot\favicon.ico
 wwwroot\js\article.js
 wwwroot\js\category.js
 wwwroot\js\site.js
+wwwroot\js\slider.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
