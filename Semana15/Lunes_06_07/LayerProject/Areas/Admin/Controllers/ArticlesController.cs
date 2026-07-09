@@ -129,6 +129,31 @@ namespace LayerProject.Areas.Admin.Controllers
         }
         #endregion
 
+        #region Delete
+        [HttpDelete]
+        public IActionResult Delete(int id)
+        {
+            var articleFromDb = _unitOfWork.IArticleRepository.GetById(id);
+            string mainRoute = _webHostEnvironment.WebRootPath;
+
+            var pathOldImage = Path.Combine(mainRoute, articleFromDb.UrlImage?.TrimStart('\\'));
+            if(System.IO.File.Exists(pathOldImage))
+            {
+                System.IO .File.Delete(pathOldImage);
+            }
+
+            if(articleFromDb == null)
+            {
+                return Json(new { succeess = false, message = "El articulo no existe" });
+            }
+
+            _unitOfWork.IArticleRepository.Delete(id);
+            _unitOfWork.Save();
+
+            return Json(new { success = true, message = "Articulo eliminado exitosamente" });
+        }
+        #endregion
+
         #region Call Apis
         [HttpGet]
         public IActionResult GetALL()
