@@ -5,6 +5,7 @@
         ICategoryRepository ICategoryRepository { get; }
         IArticleRepository IArticleRepository { get; }
         ISliderRepository ISliderRepository { get; }
+        IUserRepository IUserRepository { get; }
         void Save();
     }
 }
