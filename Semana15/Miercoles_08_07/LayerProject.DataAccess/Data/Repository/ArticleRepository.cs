@@ -12,6 +12,13 @@ namespace LayerProject.DataAccess.Data.Repository
             _dbContext = dbContext;
         }
 
+        public IQueryable<Article> AsQueryable()
+        {
+            return _dbContext.Set<Article>()
+            .Where(x => !x.IsDeleted) 
+            .AsQueryable();
+        }
+
         public void Delete(int id)
         {
             var articleFromDb = _dbContext.Articles.FirstOrDefault(x => x.Id == id);

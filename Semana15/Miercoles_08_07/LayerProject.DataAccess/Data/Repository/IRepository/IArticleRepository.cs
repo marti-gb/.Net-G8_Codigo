@@ -6,5 +6,6 @@ namespace LayerProject.DataAccess.Data.Repository.IRepository
     {
         void Update(Article article);
         void Delete(int id);
+        IQueryable<Article> AsQueryable();
     }
 }

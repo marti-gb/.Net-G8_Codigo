@@ -16,14 +16,31 @@ namespace LayerProject.Areas.Customer.Controllers
             _unitOfWork = unitOfWork;
         }
 
-        public IActionResult Index()
+        [HttpGet]
+        public IActionResult Index(int page = 1, int pageSize = 6)
         {
+            var articles = _unitOfWork.IArticleRepository.AsQueryable();
+            var paginatedEntries = articles.Skip((page - 1) * pageSize).Take(pageSize);
+
             HomeViewModel homeViewModel = new HomeViewModel()
             {
-                listArticles = _unitOfWork.IArticleRepository.GetAll(includeProperties: "Category"),
-                listSliders = _unitOfWork.ISliderRepository.GetAll()
+                listArticles = paginatedEntries.ToList(),
+                listSliders = _unitOfWork.ISliderRepository.GetAll(),
+                PageIndex = page,
+                TotalPages = (int)Math.Ceiling(articles.Count() / (double)pageSize)
             };
+
+            ViewBag.IsHome = true;
             return View(homeViewModel);
+        }
+
+        [HttpGet]
+        public IActionResult Detail(int id)
+        {
+            var articleFromDb = _unitOfWork.IArticleRepository.
+                GetFirstOrDefault(includeProperties: "Category", filter: x => x.Id == id);
+
+            return View(articleFromDb);
         }
 
         public IActionResult Privacy()
