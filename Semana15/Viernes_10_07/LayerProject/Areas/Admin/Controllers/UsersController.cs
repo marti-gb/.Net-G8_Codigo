@@ -22,5 +22,29 @@ namespace LayerProject.Areas.Admin.Controllers
 
             return View(list);
         }
+
+        [HttpGet]
+        public IActionResult Block(string id)
+        {
+            if(id == null)
+            {
+                return NotFound();
+            }
+            _unitOfWork.IUserRepository.BlockUser(id);
+
+            return RedirectToAction("Index");
+        }
+
+        [HttpGet]
+        public IActionResult UnBlock(string id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+            _unitOfWork.IUserRepository.UnBlockUser(id);
+
+            return RedirectToAction("Index");
+        }
     }
 }

@@ -1,4 +1,5 @@
-﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+﻿@using LayerProject.Utilities
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 
 <!DOCTYPE html>
 <html lang="en">
@@ -34,16 +35,19 @@
                             </a>
                         </li>
 
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>
-                            <div class="dropdown-menu">
-                                <a class="dropdown-item" href="/Admin/Categories/Index">Categorias</a>
-                                <a class="dropdown-item" href="/Admin/Articles/Index">Articulos</a>
-                                <a class="dropdown-item" href="/Admin/Sliders/Index">Sliders</a>
-                                <a class="dropdown-item" href="/Admin/Users/Index">Usuarios</a>
-                                <div class="dropdown-divider"></div>
-                            </div>
-                        </li>
+                        @if (User.IsInRole(Roles.Administrator))
+                        {
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="/Admin/Categories/Index">Categorias</a>
+                                    <a class="dropdown-item" href="/Admin/Articles/Index">Articulos</a>
+                                    <a class="dropdown-item" href="/Admin/Sliders/Index">Sliders</a>
+                                    <a class="dropdown-item" href="/Admin/Users/Index">Usuarios</a>
+                                    <div class="dropdown-divider"></div>
+                                </div>
+                            </li>
+                        }
                     </ul>
                     <form class="d-flex">
                         <input class="form-control me-sm-2" type="search" placeholder="Search">

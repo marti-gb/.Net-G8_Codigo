@@ -1,9 +1,11 @@
 ﻿using LayerProject.DataAccess.Data.Repository.IRepository;
 using LayerProject.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace LayerProject.Areas.Admin.Controllers
 {
+    [Authorize(Roles = "Administrador")]
     [Area("Admin")]
     public class CategoriesController : Controller
     {
@@ -20,6 +22,7 @@ namespace LayerProject.Areas.Admin.Controllers
         }
 
         #region Create
+        [AllowAnonymous]
         [HttpGet]
         public IActionResult Create()
         {
