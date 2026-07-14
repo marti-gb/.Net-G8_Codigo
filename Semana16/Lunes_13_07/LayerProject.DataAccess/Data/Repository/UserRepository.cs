@@ -7,14 +7,14 @@ namespace LayerProject.DataAccess.Data.Repository
     public class UserRepository : Repository<ApplicationUser>, IUserRepository
     {
         private readonly ApplicationDbContext _dbContext;
-        public UserRepository(ApplicationDbContext dbContext) :base(dbContext)
+        public UserRepository(ApplicationDbContext dbContext) : base(dbContext)
         {
             _dbContext = dbContext;
         }
 
         public void BlockUser(string userId)
         {
-            var user = _dbContext.Users.FirstOrDefault(x=>x.Id == userId);
+            var user = _dbContext.Users.FirstOrDefault(x => x.Id == userId);
             if (user != null)
             {
                 user.LockoutEnd = DateTime.Now.AddYears(100);

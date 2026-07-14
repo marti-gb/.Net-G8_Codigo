@@ -26,7 +26,7 @@ namespace LayerProject.Areas.Admin.Controllers
         [HttpGet]
         public IActionResult Block(string id)
         {
-            if(id == null)
+            if (id == null)
             {
                 return NotFound();
             }

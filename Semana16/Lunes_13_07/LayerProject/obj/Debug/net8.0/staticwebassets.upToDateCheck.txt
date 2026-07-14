@@ -1,5 +1,15 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\images\articles\0e32b743-77aa-45ca-b7d7-a59afe98b0f3.jpg
+wwwroot\images\articles\136186e9-0a07-4124-ae6b-67bb1797dc63.jpg
+wwwroot\images\articles\207bb1e8-0732-4d65-83ac-d7e80b80e17c.jpg
+wwwroot\images\articles\41415a8f-f00a-4282-a16e-716372bada49.jpg
+wwwroot\images\articles\51cb879f-e2df-4dc7-a20b-cac3b2026f0b.jpg
+wwwroot\images\articles\6928cdfd-d441-48b6-a7a3-037d2c1dc32f.jpg
+wwwroot\images\articles\8d38e261-b75b-4918-b946-dbb27f233cb4.jpg
+wwwroot\images\articles\b786f1b9-6a73-4089-b99e-02784bdc0bc2.jpg
+wwwroot\images\articles\d3b71b0e-8516-4852-89bc-7a5392704bc6.jpg
+wwwroot\images\articles\e47d8793-617e-4405-a07e-06dccd9555ea.jpg
 wwwroot\images\sliders\4644780d-413d-4d5d-ba11-c7a667d3e957.jpg
 wwwroot\js\article.js
 wwwroot\js\category.js

@@ -17,6 +17,27 @@ namespace LayerProject.Areas.Customer.Controllers
         }
 
         [HttpGet]
+        public IActionResult ResultSearch(string searchString, int page = 1, int pageSize = 6)
+        {
+            var articules = _unitOfWork.IArticleRepository.AsQueryable();
+            if (!string.IsNullOrEmpty(searchString))
+            {
+                articules = articules.Where(x=>x.Name.ToLower().Contains(searchString.ToLower())
+                || x.Description.ToLower().Contains(searchString.ToLower()));
+            }
+
+            var totalArticles = articules.Count();
+
+            var paginatedEntries = articules.Skip((page-1)*pageSize).Take(pageSize);
+
+            PaginatedList<Article> articlesPaginated =
+                new PaginatedList<Article>(paginatedEntries.ToList(), 
+                totalArticles, page, pageSize, searchString);
+
+            return View(articlesPaginated);
+        }
+
+        [HttpGet]
         public IActionResult Index(int page = 1, int pageSize = 6)
         {
             var articles = _unitOfWork.IArticleRepository.AsQueryable();

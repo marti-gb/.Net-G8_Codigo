@@ -9,10 +9,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.AspNetCore.WebUtilities;
 using System.ComponentModel.DataAnnotations;
-using System.Text;
-using System.Text.Encodings.Web;
 
 namespace LayerProject.Areas.Identity.Pages.Account
 {
@@ -139,7 +136,7 @@ namespace LayerProject.Areas.Identity.Pages.Account
                 if (result.Succeeded)
                 {
                     //Verificamos si los roles existen
-                    if(!await _roleManager.RoleExistsAsync(Roles.Administrator))
+                    if (!await _roleManager.RoleExistsAsync(Roles.Administrator))
                     {
                         await _roleManager.CreateAsync(new IdentityRole(Roles.Administrator));
                         await _roleManager.CreateAsync(new IdentityRole(Roles.Customer));
@@ -150,7 +147,7 @@ namespace LayerProject.Areas.Identity.Pages.Account
 
                     if (!string.IsNullOrEmpty(role))
                     {
-                        if(role == Roles.Administrator)
+                        if (role == Roles.Administrator)
                         {
                             await _userManager.AddToRoleAsync(user, Roles.Administrator);
                         }
@@ -170,7 +167,7 @@ namespace LayerProject.Areas.Identity.Pages.Account
                     {
                         await _userManager.AddToRoleAsync(user, Roles.Customer);
                     }
-                        
+
                     //_logger.LogInformation("User created a new account with password.");
 
                     //var userId = await _userManager.GetUserIdAsync(user);
