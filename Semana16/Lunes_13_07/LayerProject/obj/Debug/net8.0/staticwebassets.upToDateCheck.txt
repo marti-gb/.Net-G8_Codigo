@@ -10,6 +10,10 @@ wwwroot\images\articles\8d38e261-b75b-4918-b946-dbb27f233cb4.jpg
 wwwroot\images\articles\b786f1b9-6a73-4089-b99e-02784bdc0bc2.jpg
 wwwroot\images\articles\d3b71b0e-8516-4852-89bc-7a5392704bc6.jpg
 wwwroot\images\articles\e47d8793-617e-4405-a07e-06dccd9555ea.jpg
+wwwroot\images\banner.jpeg
+wwwroot\images\block1.jpeg
+wwwroot\images\block2.jpeg
+wwwroot\images\blog1.jpeg
 wwwroot\images\sliders\4644780d-413d-4d5d-ba11-c7a667d3e957.jpg
 wwwroot\js\article.js
 wwwroot\js\category.js
