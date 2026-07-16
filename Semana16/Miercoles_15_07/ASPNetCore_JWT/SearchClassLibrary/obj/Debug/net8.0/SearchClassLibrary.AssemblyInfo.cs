@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SearchClassLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea5a2451d2a23897d82ffa4ddc86fbe4470a555c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1ad8a11e2b21744df4e3d6b3732594da294669d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SearchClassLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SearchClassLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
