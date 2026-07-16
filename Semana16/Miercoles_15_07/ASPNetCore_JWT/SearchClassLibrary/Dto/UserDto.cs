@@ -20,7 +20,7 @@ namespace SearchClassLibrary.Dto
 
         [Required]
         [DataType(DataType.Password)]
-        [Compare(nameof(Password))]]
+        [Compare(nameof(Password))]
         public string ConfirmPassword { get; set; }
     }
 }

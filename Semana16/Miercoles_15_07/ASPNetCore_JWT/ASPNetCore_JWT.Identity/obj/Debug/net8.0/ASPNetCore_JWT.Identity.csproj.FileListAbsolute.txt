@@ -153,3 +153,6 @@ C:\Users\LENOVO\Desktop\.NET-G8\Semana16\Miercoles_15_07\ASPNetCore_JWT\ASPNetCo
 C:\Users\LENOVO\Desktop\.NET-G8\Semana16\Miercoles_15_07\ASPNetCore_JWT\ASPNetCore_JWT.Identity\obj\Debug\net8.0\ASPNetCore_JWT.Identity.pdb
 C:\Users\LENOVO\Desktop\.NET-G8\Semana16\Miercoles_15_07\ASPNetCore_JWT\ASPNetCore_JWT.Identity\obj\Debug\net8.0\ASPNetCore_JWT.Identity.genruntimeconfig.cache
 C:\Users\LENOVO\Desktop\.NET-G8\Semana16\Miercoles_15_07\ASPNetCore_JWT\ASPNetCore_JWT.Identity\obj\Debug\net8.0\ref\ASPNetCore_JWT.Identity.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana16\Miercoles_15_07\ASPNetCore_JWT\ASPNetCore_JWT.Identity\bin\Debug\net8.0\Scrutor.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana16\Miercoles_15_07\ASPNetCore_JWT\ASPNetCore_JWT.Identity\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana16\Miercoles_15_07\ASPNetCore_JWT\ASPNetCore_JWT.Identity\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
