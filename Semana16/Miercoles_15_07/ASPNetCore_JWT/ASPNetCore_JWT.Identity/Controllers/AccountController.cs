@@ -21,5 +21,12 @@ namespace ASPNetCore_JWT.Identity.Controllers
             var response = await _userAccount.CreateAccount(userDto);
             return Ok(response);
         }
+
+        [HttpPost("login")]
+        public async Task<IActionResult> Login(LoginDto loginDto)
+        {
+            var response = await _userAccount.LoginAccount(loginDto);
+            return Ok(response);
+        }
     }
 }
