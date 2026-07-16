@@ -1,9 +1,11 @@
 using LayerProject.Data;
+using LayerProject.DataAccess.Data.Initializer;
 using LayerProject.DataAccess.Data.Repository;
 using LayerProject.DataAccess.Data.Repository.IRepository;
 using LayerProject.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Newtonsoft.Json.Bson;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -25,6 +27,8 @@ builder.Services.AddIdentity<ApplicationUser, IdentityRole>(options =>
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+
+builder.Services.AddScoped<IInitializarDB, Initializer>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -41,7 +45,7 @@ else
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-
+DataSeeding();
 app.UseRouting();
 
 app.UseAuthorization();
@@ -52,3 +56,13 @@ app.MapControllerRoute(
 app.MapRazorPages();
 
 app.Run();
+
+
+void DataSeeding()
+{
+    using(var scope = app.Services.CreateScope())
+    {
+        var initializer = scope.ServiceProvider.GetRequiredService<IInitializarDB>();
+        initializer.Initializer();
+    }
+}

@@ -1,0 +1,6 @@
+@ASPNetCore_JWT.Identity_HostAddress = http://localhost:5064
+
+GET {{ASPNetCore_JWT.Identity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

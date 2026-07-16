@@ -1,0 +1,12 @@
+C:\Users\LENOVO\Desktop\.NET-G8\Semana16\Lunes_13_07\LayerProject.Utilities\bin\Release\net8.0\LayerProject.Utilities.deps.json
+C:\Users\LENOVO\Desktop\.NET-G8\Semana16\Lunes_13_07\LayerProject.Utilities\bin\Release\net8.0\LayerProject.Utilities.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana16\Lunes_13_07\LayerProject.Utilities\bin\Release\net8.0\LayerProject.Utilities.pdb
+C:\Users\LENOVO\Desktop\.NET-G8\Semana16\Lunes_13_07\LayerProject.Utilities\obj\Release\net8.0\LayerProject.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\.NET-G8\Semana16\Lunes_13_07\LayerProject.Utilities\obj\Release\net8.0\LayerProject.Utilities.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana16\Lunes_13_07\LayerProject.Utilities\obj\Release\net8.0\LayerProject.Utilities.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\.NET-G8\Semana16\Lunes_13_07\LayerProject.Utilities\obj\Release\net8.0\LayerProject.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana16\Lunes_13_07\LayerProject.Utilities\obj\Release\net8.0\LayerProject.Utilities.sourcelink.json
+C:\Users\LENOVO\Desktop\.NET-G8\Semana16\Lunes_13_07\LayerProject.Utilities\obj\Release\net8.0\LayerProject.Utilities.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana16\Lunes_13_07\LayerProject.Utilities\obj\Release\net8.0\refint\LayerProject.Utilities.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana16\Lunes_13_07\LayerProject.Utilities\obj\Release\net8.0\LayerProject.Utilities.pdb
+C:\Users\LENOVO\Desktop\.NET-G8\Semana16\Lunes_13_07\LayerProject.Utilities\obj\Release\net8.0\ref\LayerProject.Utilities.dll
