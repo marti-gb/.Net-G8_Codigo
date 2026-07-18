@@ -34,3 +34,5 @@ C:\Users\LENOVO\Desktop\.NET-G8\Semana16\Viernes_17_07\ProjectOcelotMicroservice
 C:\Users\LENOVO\Desktop\.NET-G8\Semana16\Viernes_17_07\ProjectOcelotMicroservices\Weather\obj\Debug\net8.0\Weather.pdb
 C:\Users\LENOVO\Desktop\.NET-G8\Semana16\Viernes_17_07\ProjectOcelotMicroservices\Weather\obj\Debug\net8.0\Weather.genruntimeconfig.cache
 C:\Users\LENOVO\Desktop\.NET-G8\Semana16\Viernes_17_07\ProjectOcelotMicroservices\Weather\obj\Debug\net8.0\ref\Weather.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana16\Viernes_17_07\ProjectOcelotMicroservices\Weather\bin\Debug\net8.0\SharedLibrary.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana16\Viernes_17_07\ProjectOcelotMicroservices\Weather\bin\Debug\net8.0\SharedLibrary.pdb

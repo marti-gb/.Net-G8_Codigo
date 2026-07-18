@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "Weather\\Weather.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Identity\\Identity.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Gateway\\Gateway.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AuthenticationAPI\\AuthenticationAPI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

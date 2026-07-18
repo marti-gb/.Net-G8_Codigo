@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace Identity.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class UserController : ControllerBase
     {
         private static readonly string[] Users = new[]
