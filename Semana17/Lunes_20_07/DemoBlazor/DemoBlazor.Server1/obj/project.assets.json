@@ -1581,6 +1581,16 @@
             "rid": "win"
           }
         }
+      },
+      "DemoBlazor.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DemoBlazor.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DemoBlazor.Shared.dll": {}
+        }
       }
     }
   },
@@ -4431,10 +4441,16 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "DemoBlazor.Shared/1.0.0": {
+      "type": "project",
+      "path": "../DemoBlazor.Shared/DemoBlazor.Shared.csproj",
+      "msbuildProject": "../DemoBlazor.Shared/DemoBlazor.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "DemoBlazor.Shared >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.12",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.12",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.12",
@@ -4473,7 +4489,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Shared\\DemoBlazor.Shared.csproj": {
+              "projectPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Shared\\DemoBlazor.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

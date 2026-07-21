@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "DemoBlazor.Server1.Controllers.EmployeesController",
+    "Method": "Delete",
+    "RelativePath": "api/Employees/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DemoBlazor.Server1.Controllers.EmployeesController",
+    "Method": "Edit",
+    "RelativePath": "api/Employees/edit/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeDto",
+        "Type": "DemoBlazor.Shared.EmployeeDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DemoBlazor.Server1.Controllers.EmployeesController",
+    "Method": "GetById",
+    "RelativePath": "api/Employees/getById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DemoBlazor.Server1.Controllers.EmployeesController",
+    "Method": "GetAll",
+    "RelativePath": "api/Employees/list",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DemoBlazor.Server1.Controllers.EmployeesController",
+    "Method": "Save",
+    "RelativePath": "api/Employees/save",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeDto",
+        "Type": "DemoBlazor.Shared.EmployeeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

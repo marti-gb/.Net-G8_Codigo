@@ -1024,9 +1024,6 @@ C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Clien
 C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Client\obj\Debug\net8.0\compressed\5fu2y2qusp-tptq2av103.gz
 C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Client\obj\Debug\net8.0\compressed\k5mscvxbb7-lfu7j35m59.gz
 C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Client\obj\Debug\net8.0\compressed\avk257rfic-oyz0vx2fzb.gz
-C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Client\obj\Debug\net8.0\compressed\7le35mnwbz-s2zqh4ltxp.gz
-C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Client\obj\Debug\net8.0\compressed\1pwz3ob6yj-dg7dv2azcr.gz
-C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Client\obj\Debug\net8.0\compressed\peveqxq6r7-xw378r5f1b.gz
 C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Client\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Client\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Client\obj\Debug\net8.0\staticwebassets.development.json
@@ -1037,3 +1034,6 @@ C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Clien
 C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Client\obj\Debug\net8.0\refint\DemoBlazor.Client.dll
 C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Client\obj\Debug\net8.0\DemoBlazor.Client.pdb
 C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Client\obj\Debug\net8.0\ref\DemoBlazor.Client.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Client\obj\Debug\net8.0\compressed\7le35mnwbz-excb1uydzu.gz
+C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Client\obj\Debug\net8.0\compressed\1pwz3ob6yj-1i60hry5pq.gz
+C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Client\obj\Debug\net8.0\compressed\peveqxq6r7-ic7nxfwj46.gz

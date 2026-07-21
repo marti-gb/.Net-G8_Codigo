@@ -1,0 +1,12 @@
+C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Shared\bin\Debug\net8.0\DemoBlazor.Shared.deps.json
+C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Shared\bin\Debug\net8.0\DemoBlazor.Shared.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Shared\bin\Debug\net8.0\DemoBlazor.Shared.pdb
+C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Shared\obj\Debug\net8.0\DemoBlazor.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Shared\obj\Debug\net8.0\DemoBlazor.Shared.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Shared\obj\Debug\net8.0\DemoBlazor.Shared.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Shared\obj\Debug\net8.0\DemoBlazor.Shared.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Shared\obj\Debug\net8.0\DemoBlazor.Shared.sourcelink.json
+C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Shared\obj\Debug\net8.0\DemoBlazor.Shared.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Shared\obj\Debug\net8.0\refint\DemoBlazor.Shared.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Shared\obj\Debug\net8.0\DemoBlazor.Shared.pdb
+C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Shared\obj\Debug\net8.0\ref\DemoBlazor.Shared.dll

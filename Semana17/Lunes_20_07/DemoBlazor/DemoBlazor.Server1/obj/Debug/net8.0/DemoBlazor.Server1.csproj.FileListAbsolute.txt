@@ -145,3 +145,5 @@ C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Serve
 C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Server1\obj\Debug\net8.0\DemoBlazor.Server1.pdb
 C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Server1\obj\Debug\net8.0\DemoBlazor.Server1.genruntimeconfig.cache
 C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Server1\obj\Debug\net8.0\ref\DemoBlazor.Server1.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Server1\bin\Debug\net8.0\DemoBlazor.Shared.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana17\Lunes_20_07\DemoBlazor\DemoBlazor.Server1\bin\Debug\net8.0\DemoBlazor.Shared.pdb
