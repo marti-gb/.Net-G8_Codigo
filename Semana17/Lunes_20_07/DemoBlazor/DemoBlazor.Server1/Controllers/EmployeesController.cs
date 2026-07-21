@@ -23,12 +23,11 @@ namespace DemoBlazor.Server1.Controllers
         {
             var responseApi = new ResponseAPI<List<EmployeeDto>>();
             var listEmployees = new List<EmployeeDto>();
-            
 
             try
             {
-                foreach(var item in _dbContext.Employees.Where(x=>!x.IsDeleted)
-                    /*.Include(x=>x.DepartmentId)*/.ToList())
+                foreach(var item in await _dbContext.Employees.Where(x=>!x.IsDeleted)
+                    .Include(x => x.Department).ToListAsync())
                 {
                     listEmployees.Add(new EmployeeDto
                     {
@@ -37,7 +36,11 @@ namespace DemoBlazor.Server1.Controllers
                         DepartmentId = item.DepartmentId,
                         Salary = item.Salary,
                         DateContract = item.DateContract,
-                        //DepartmentDto = newDepartmen
+                        DepartmentDto = item.Department != null ? new DepartmentDto
+                        {
+                            Id = item.Department.Id,
+                            Name = item.Department.Name
+                        } : null
                     });
                 }
                 responseApi.Flag = true;
@@ -62,14 +65,23 @@ namespace DemoBlazor.Server1.Controllers
 
             try
             {
-                var employeFromDB = await _dbContext.Employees.FirstOrDefaultAsync(x => x.Id == id && !x.IsDeleted);
-                if(employeFromDB != null)
+                var employeFromDB = await _dbContext.Employees
+                    .Include(x => x.Department) 
+                    .FirstOrDefaultAsync(x => x.Id == id && !x.IsDeleted);
+
+                if (employeFromDB != null)
                 {
                     employeeDto.Id = employeFromDB.Id;
                     employeeDto.Name = employeFromDB.Name;
                     employeeDto.DepartmentId = employeFromDB.DepartmentId;
                     employeeDto.Salary = employeFromDB.Salary;
                     employeeDto.DateContract = employeFromDB.DateContract;
+
+                    employeeDto.DepartmentDto = employeFromDB.Department != null ? new DepartmentDto
+                    {
+                        Id = employeFromDB.Department.Id,
+                        Name = employeFromDB.Department.Name
+                    } : null;
 
                     responseApi.Flag = true;
                     responseApi.Value = employeeDto;
@@ -81,7 +93,6 @@ namespace DemoBlazor.Server1.Controllers
                     responseApi.Value = null;
                     responseApi.Message = "Empleado no encontrado";
                 }
-                
             }
             catch (Exception ex)
             {

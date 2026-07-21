@@ -38,6 +38,16 @@
   },
   {
     "ContainingType": "DemoBlazor.Server1.Controllers.EmployeesController",
+    "Method": "GetAll",
+    "RelativePath": "api/Employees/getAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DemoBlazor.Server1.Controllers.EmployeesController",
     "Method": "GetById",
     "RelativePath": "api/Employees/getById/{id}",
     "HttpMethod": "GET",
@@ -50,16 +60,6 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "DemoBlazor.Server1.Controllers.EmployeesController",
-    "Method": "GetAll",
-    "RelativePath": "api/Employees/list",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
     "ReturnTypes": []
   },
   {
