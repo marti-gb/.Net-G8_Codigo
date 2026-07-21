@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32A1517F-9C5D-4B96-A929-759E6F7973B4}|DemoBlazor.Server1\\DemoBlazor.Server1.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\lunes_20_07\\demoblazor\\demoblazor.server1\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32A1517F-9C5D-4B96-A929-759E6F7973B4}|DemoBlazor.Server1\\DemoBlazor.Server1.csproj|solutionrelative:demoblazor.server1\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32A1517F-9C5D-4B96-A929-759E6F7973B4}|DemoBlazor.Server1\\DemoBlazor.Server1.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\lunes_20_07\\demoblazor\\demoblazor.server1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32A1517F-9C5D-4B96-A929-759E6F7973B4}|DemoBlazor.Server1\\DemoBlazor.Server1.csproj|solutionrelative:demoblazor.server1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A1517F-9C5D-4B96-A929-759E6F7973B4}|DemoBlazor.Server1\\DemoBlazor.Server1.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\lunes_20_07\\demoblazor\\demoblazor.server1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32A1517F-9C5D-4B96-A929-759E6F7973B4}|DemoBlazor.Server1\\DemoBlazor.Server1.csproj|solutionrelative:demoblazor.server1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7213FB-9AF5-4B31-8111-4368D9A143E3}|DemoBlazor.Client\\DemoBlazor.Client.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\lunes_20_07\\demoblazor\\demoblazor.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7213FB-9AF5-4B31-8111-4368D9A143E3}|DemoBlazor.Client\\DemoBlazor.Client.csproj|solutionrelative:demoblazor.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7213FB-9AF5-4B31-8111-4368D9A143E3}|DemoBlazor.Client\\DemoBlazor.Client.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\lunes_20_07\\demoblazor\\demoblazor.client\\pages\\employee.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A7213FB-9AF5-4B31-8111-4368D9A143E3}|DemoBlazor.Client\\DemoBlazor.Client.csproj|solutionrelative:demoblazor.client\\pages\\employee.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7213FB-9AF5-4B31-8111-4368D9A143E3}|DemoBlazor.Client\\DemoBlazor.Client.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\lunes_20_07\\demoblazor\\demoblazor.client\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7213FB-9AF5-4B31-8111-4368D9A143E3}|DemoBlazor.Client\\DemoBlazor.Client.csproj|solutionrelative:demoblazor.client\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7213FB-9AF5-4B31-8111-4368D9A143E3}|DemoBlazor.Client\\DemoBlazor.Client.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\lunes_20_07\\demoblazor\\demoblazor.client\\pages\\employees.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A7213FB-9AF5-4B31-8111-4368D9A143E3}|DemoBlazor.Client\\DemoBlazor.Client.csproj|solutionrelative:demoblazor.client\\pages\\employees.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7213FB-9AF5-4B31-8111-4368D9A143E3}|DemoBlazor.Client\\DemoBlazor.Client.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\lunes_20_07\\demoblazor\\demoblazor.client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A7213FB-9AF5-4B31-8111-4368D9A143E3}|DemoBlazor.Client\\DemoBlazor.Client.csproj|solutionrelative:demoblazor.client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A1517F-9C5D-4B96-A929-759E6F7973B4}|DemoBlazor.Server1\\DemoBlazor.Server1.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\lunes_20_07\\demoblazor\\demoblazor.server1\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32A1517F-9C5D-4B96-A929-759E6F7973B4}|DemoBlazor.Server1\\DemoBlazor.Server1.csproj|solutionrelative:demoblazor.server1\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32A1517F-9C5D-4B96-A929-759E6F7973B4}|DemoBlazor.Server1\\DemoBlazor.Server1.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\lunes_20_07\\demoblazor\\demoblazor.server1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,28 +43,8 @@
       "RelativeMoniker": "D:0:0:{32A1517F-9C5D-4B96-A929-759E6F7973B4}|DemoBlazor.Server1\\DemoBlazor.Server1.csproj|solutionrelative:demoblazor.server1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D4AE993-56C3-4584-9767-7D4DF9FD99BE}|DemoBlazor.Shared\\DemoBlazor.Shared.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\lunes_20_07\\demoblazor\\demoblazor.shared\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D4AE993-56C3-4584-9767-7D4DF9FD99BE}|DemoBlazor.Shared\\DemoBlazor.Shared.csproj|solutionrelative:demoblazor.shared\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D4AE993-56C3-4584-9767-7D4DF9FD99BE}|DemoBlazor.Shared\\DemoBlazor.Shared.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\lunes_20_07\\demoblazor\\demoblazor.shared\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D4AE993-56C3-4584-9767-7D4DF9FD99BE}|DemoBlazor.Shared\\DemoBlazor.Shared.csproj|solutionrelative:demoblazor.shared\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32A1517F-9C5D-4B96-A929-759E6F7973B4}|DemoBlazor.Server1\\DemoBlazor.Server1.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\lunes_20_07\\demoblazor\\demoblazor.server1\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32A1517F-9C5D-4B96-A929-759E6F7973B4}|DemoBlazor.Server1\\DemoBlazor.Server1.csproj|solutionrelative:demoblazor.server1\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7D4AE993-56C3-4584-9767-7D4DF9FD99BE}|DemoBlazor.Shared\\DemoBlazor.Shared.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\lunes_20_07\\demoblazor\\demoblazor.shared\\responseapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D4AE993-56C3-4584-9767-7D4DF9FD99BE}|DemoBlazor.Shared\\DemoBlazor.Shared.csproj|solutionrelative:demoblazor.shared\\responseapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32A1517F-9C5D-4B96-A929-759E6F7973B4}|DemoBlazor.Server1\\DemoBlazor.Server1.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\lunes_20_07\\demoblazor\\demoblazor.server1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{32A1517F-9C5D-4B96-A929-759E6F7973B4}|DemoBlazor.Server1\\DemoBlazor.Server1.csproj|solutionrelative:demoblazor.server1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32A1517F-9C5D-4B96-A929-759E6F7973B4}|DemoBlazor.Server1\\DemoBlazor.Server1.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\lunes_20_07\\demoblazor\\demoblazor.server1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32A1517F-9C5D-4B96-A929-759E6F7973B4}|DemoBlazor.Server1\\DemoBlazor.Server1.csproj|solutionrelative:demoblazor.server1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32A1517F-9C5D-4B96-A929-759E6F7973B4}|DemoBlazor.Server1\\DemoBlazor.Server1.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\lunes_20_07\\demoblazor\\demoblazor.server1\\migrations\\20260721013330_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,11 +62,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Client\\Program.cs",
+              "RelativeDocumentMoniker": "DemoBlazor.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Client\\Program.cs",
+              "RelativeToolTip": "DemoBlazor.Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T04:49:03.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.razor",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Client\\Pages\\Employee.razor",
+              "RelativeDocumentMoniker": "DemoBlazor.Client\\Pages\\Employee.razor",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Client\\Pages\\Employee.razor",
+              "RelativeToolTip": "DemoBlazor.Client\\Pages\\Employee.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-21T04:39:05.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employees.razor",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Client\\Pages\\Employees.razor",
+              "RelativeDocumentMoniker": "DemoBlazor.Client\\Pages\\Employees.razor",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Client\\Pages\\Employees.razor",
+              "RelativeToolTip": "DemoBlazor.Client\\Pages\\Employees.razor",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAmwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-21T04:26:07.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Client\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "DemoBlazor.Client\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Client\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "DemoBlazor.Client\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-21T04:24:45.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Client\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "DemoBlazor.Client\\Services\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Client\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "DemoBlazor.Client\\Services\\DepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T03:58:49.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Server1\\appsettings.json",
+              "RelativeDocumentMoniker": "DemoBlazor.Server1\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Server1\\appsettings.json",
+              "RelativeToolTip": "DemoBlazor.Server1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-21T01:22:09.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Server1\\Program.cs",
+              "RelativeDocumentMoniker": "DemoBlazor.Server1\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Server1\\Program.cs",
+              "RelativeToolTip": "DemoBlazor.Server1\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T01:32:01.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Server1\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "DemoBlazor.Server1\\Models\\Employee.cs",
@@ -71,19 +170,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "DepartmentsController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Server1\\Controllers\\DepartmentsController.cs",
               "RelativeDocumentMoniker": "DemoBlazor.Server1\\Controllers\\DepartmentsController.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Server1\\Controllers\\DepartmentsController.cs",
               "RelativeToolTip": "DemoBlazor.Server1\\Controllers\\DepartmentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T02:54:49.463Z"
+              "WhenOpened": "2026-07-21T02:54:49.463Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "ResponseAPI.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Shared\\ResponseAPI.cs",
               "RelativeDocumentMoniker": "DemoBlazor.Shared\\ResponseAPI.cs",
@@ -91,50 +191,12 @@
               "RelativeToolTip": "DemoBlazor.Shared\\ResponseAPI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T02:50:13.87Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DepartmentDto.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Shared\\DepartmentDto.cs",
-              "RelativeDocumentMoniker": "DemoBlazor.Shared\\DepartmentDto.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Shared\\DepartmentDto.cs",
-              "RelativeToolTip": "DemoBlazor.Shared\\DepartmentDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T02:48:39.312Z",
+              "WhenOpened": "2026-07-21T02:50:13.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmployeeDto.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Shared\\EmployeeDto.cs",
-              "RelativeDocumentMoniker": "DemoBlazor.Shared\\EmployeeDto.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Shared\\EmployeeDto.cs",
-              "RelativeToolTip": "DemoBlazor.Shared\\EmployeeDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T02:46:04.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeesController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Server1\\Controllers\\EmployeesController.cs",
-              "RelativeDocumentMoniker": "DemoBlazor.Server1\\Controllers\\EmployeesController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Server1\\Controllers\\EmployeesController.cs",
-              "RelativeToolTip": "DemoBlazor.Server1\\Controllers\\EmployeesController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAIwCsAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T02:55:12.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Server1\\Models\\Department.cs",
               "RelativeDocumentMoniker": "DemoBlazor.Server1\\Models\\Department.cs",
@@ -147,19 +209,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "20260721032155_correction.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Server1\\Migrations\\20260721032155_correction.cs",
               "RelativeDocumentMoniker": "DemoBlazor.Server1\\Migrations\\20260721032155_correction.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Server1\\Migrations\\20260721032155_correction.cs",
               "RelativeToolTip": "DemoBlazor.Server1\\Migrations\\20260721032155_correction.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T03:21:55.362Z"
+              "WhenOpened": "2026-07-21T03:21:55.362Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "20260721013330_initial.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Server1\\Migrations\\20260721013330_initial.cs",
               "RelativeDocumentMoniker": "DemoBlazor.Server1\\Migrations\\20260721013330_initial.cs",
@@ -167,31 +230,8 @@
               "RelativeToolTip": "DemoBlazor.Server1\\Migrations\\20260721013330_initial.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwCsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T01:33:31.218Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Server1\\Program.cs",
-              "RelativeDocumentMoniker": "DemoBlazor.Server1\\Program.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Server1\\Program.cs",
-              "RelativeToolTip": "DemoBlazor.Server1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T01:32:01.424Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Server1\\appsettings.json",
-              "RelativeDocumentMoniker": "DemoBlazor.Server1\\appsettings.json",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Server1\\appsettings.json",
-              "RelativeToolTip": "DemoBlazor.Server1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-21T01:22:09.73Z"
+              "WhenOpened": "2026-07-21T01:33:31.218Z",
+              "EditorCaption": ""
             }
           ]
         }

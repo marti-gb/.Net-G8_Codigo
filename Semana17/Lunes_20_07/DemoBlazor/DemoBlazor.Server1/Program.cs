@@ -13,8 +13,19 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
-var app = builder.Build();
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("nuevaPolitica", app =>
+    {
+        app.AllowAnyHeader()
+        .AllowAnyMethod()
+        .AllowAnyOrigin();
+    });
+});
+
+var app = builder.Build();
+app.UseCors("nuevaPolitica");
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {

@@ -28,8 +28,20 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/LENOVO/Desktop/.NET-G8/Semana17/Lunes_20_07/DemoBlazor/DemoBlazor.Client/Pages/Component.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/LENOVO/Desktop/.NET-G8/Semana17/Lunes_20_07/DemoBlazor/DemoBlazor.Client/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LENOVO/Desktop/.NET-G8/Semana17/Lunes_20_07/DemoBlazor/DemoBlazor.Client/Pages/Employee.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LENOVO/Desktop/.NET-G8/Semana17/Lunes_20_07/DemoBlazor/DemoBlazor.Client/Pages/Employees.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/LENOVO/Desktop/.NET-G8/Semana17/Lunes_20_07/DemoBlazor/DemoBlazor.Client/Pages/Home.razor]

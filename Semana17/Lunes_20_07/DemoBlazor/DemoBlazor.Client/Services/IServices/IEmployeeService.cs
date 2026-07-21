@@ -8,6 +8,6 @@ namespace DemoBlazor.Client.Services.IServices
         Task<EmployeeDto> GetEmployeeById(int id);
         Task<int> Save(EmployeeDto employeeDto);
         Task<int> Edit(EmployeeDto employeeDto);
-        Task<int> Delete(int id);
+        Task<bool> Delete(int id);
     }
 }

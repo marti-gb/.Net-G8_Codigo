@@ -5,6 +5,18 @@
     "version": "1.0"
   },
   "paths": {
+    "/api/Departments/getAll": {
+      "get": {
+        "tags": [
+          "Departments"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Employees/getAll": {
       "get": {
         "tags": [
@@ -149,6 +161,9 @@
           "name": {
             "type": "string",
             "nullable": true
+          },
+          "isDeleted": {
+            "type": "boolean"
           }
         },
         "additionalProperties": false
@@ -186,6 +201,9 @@
           },
           "departmentDto": {
             "$ref": "#/components/schemas/DepartmentDto"
+          },
+          "isDeleted": {
+            "type": "boolean"
           }
         },
         "additionalProperties": false

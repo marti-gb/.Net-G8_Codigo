@@ -68,14 +68,14 @@ namespace DemoBlazor.Client.Services
             }
         }
 
-        public async Task<int> Delete(int id)
+        public async Task<bool> Delete(int id)
         {
             var result = await _httpClient.DeleteAsync($"api/Employees/delete/{id}");
             var response = await result.Content.ReadFromJsonAsync<ResponseAPI<int>>();
 
             if (response!.Flag)
             {
-                return response.Value!;
+                return response.Flag!;
             }
             else
             {

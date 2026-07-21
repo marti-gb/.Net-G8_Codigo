@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nrfh5K2SM4I=",
+  "dgSpecHash": "DIQFrZroCVk=",
   "success": true,
   "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Lunes_20_07\\DemoBlazor\\DemoBlazor.Client\\DemoBlazor.Client.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.6.0\\currietechnologies.razor.sweetalert2.5.6.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.22\\microsoft.aspnetcore.authorization.8.0.22.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.22\\microsoft.aspnetcore.components.8.0.22.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.22\\microsoft.aspnetcore.components.analyzers.8.0.22.nupkg.sha512",

@@ -1,5 +1,15 @@
 [
   {
+    "ContainingType": "DemoBlazor.Server1.Controllers.DepartmentsController",
+    "Method": "GetAll",
+    "RelativePath": "api/Departments/getAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "DemoBlazor.Server1.Controllers.EmployeesController",
     "Method": "Delete",
     "RelativePath": "api/Employees/delete/{id}",

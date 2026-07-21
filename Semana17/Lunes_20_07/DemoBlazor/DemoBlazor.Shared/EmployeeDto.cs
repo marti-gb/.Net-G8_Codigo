@@ -17,5 +17,6 @@ namespace DemoBlazor.Shared
         public int Salary { get; set; }
         public DateOnly DateContract { get; set; }
         public virtual DepartmentDto? DepartmentDto { get; set; } 
+        public bool IsDeleted { get; set; }
     }
 }
