@@ -8,6 +8,5 @@ namespace Microservices.BackEnd.CouponAPI.Models.Dto
         public string CouponCode { get; set; }
         public double DiscountAmount { get; set; }
         public int MinimunAmount { get; set; }
-        public bool IsDeleted { get; set; }
     }
 }
