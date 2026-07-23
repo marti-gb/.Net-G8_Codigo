@@ -8,12 +8,12 @@ namespace Microservices.BackEnd.CouponAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class CouponsController : ControllerBase
+    public class CouponsAPIController : ControllerBase
     {
         private readonly ApplicationDbContext _db;
         private ResponseDto _responseDto;
         private readonly IMapper _mapper;
-        public CouponsController(ApplicationDbContext db, IMapper mapper)
+        public CouponsAPIController(ApplicationDbContext db, IMapper mapper)
         {
             _db = db;
             _responseDto = new ResponseDto();
