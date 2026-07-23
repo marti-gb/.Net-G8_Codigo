@@ -5,10 +5,10 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/Coupons": {
+    "/api/CouponsAPI": {
       "get": {
         "tags": [
-          "Coupons"
+          "CouponsAPI"
         ],
         "responses": {
           "200": {
@@ -35,7 +35,7 @@
       },
       "post": {
         "tags": [
-          "Coupons"
+          "CouponsAPI"
         ],
         "requestBody": {
           "content": {
@@ -81,7 +81,7 @@
       },
       "put": {
         "tags": [
-          "Coupons"
+          "CouponsAPI"
         ],
         "requestBody": {
           "content": {
@@ -126,10 +126,10 @@
         }
       }
     },
-    "/api/Coupons/{id}": {
+    "/api/CouponsAPI/{id}": {
       "get": {
         "tags": [
-          "Coupons"
+          "CouponsAPI"
         ],
         "parameters": [
           {
@@ -167,7 +167,7 @@
       },
       "delete": {
         "tags": [
-          "Coupons"
+          "CouponsAPI"
         ],
         "parameters": [
           {
@@ -204,10 +204,10 @@
         }
       }
     },
-    "/api/Coupons/GetByCode/{code}": {
+    "/api/CouponsAPI/GetByCode/{code}": {
       "get": {
         "tags": [
-          "Coupons"
+          "CouponsAPI"
         ],
         "parameters": [
           {

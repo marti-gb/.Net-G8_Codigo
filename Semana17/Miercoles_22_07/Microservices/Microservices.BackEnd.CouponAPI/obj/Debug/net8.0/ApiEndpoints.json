@@ -1,8 +1,8 @@
 [
   {
-    "ContainingType": "Microservices.BackEnd.CouponAPI.Controllers.CouponsController",
+    "ContainingType": "Microservices.BackEnd.CouponAPI.Controllers.CouponsAPIController",
     "Method": "GetAll",
-    "RelativePath": "api/Coupons",
+    "RelativePath": "api/CouponsAPI",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -20,9 +20,9 @@
     ]
   },
   {
-    "ContainingType": "Microservices.BackEnd.CouponAPI.Controllers.CouponsController",
+    "ContainingType": "Microservices.BackEnd.CouponAPI.Controllers.CouponsAPIController",
     "Method": "Post",
-    "RelativePath": "api/Coupons",
+    "RelativePath": "api/CouponsAPI",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -46,9 +46,9 @@
     ]
   },
   {
-    "ContainingType": "Microservices.BackEnd.CouponAPI.Controllers.CouponsController",
+    "ContainingType": "Microservices.BackEnd.CouponAPI.Controllers.CouponsAPIController",
     "Method": "Put",
-    "RelativePath": "api/Coupons",
+    "RelativePath": "api/CouponsAPI",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -72,9 +72,9 @@
     ]
   },
   {
-    "ContainingType": "Microservices.BackEnd.CouponAPI.Controllers.CouponsController",
+    "ContainingType": "Microservices.BackEnd.CouponAPI.Controllers.CouponsAPIController",
     "Method": "GetById",
-    "RelativePath": "api/Coupons/{id}",
+    "RelativePath": "api/CouponsAPI/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -98,9 +98,9 @@
     ]
   },
   {
-    "ContainingType": "Microservices.BackEnd.CouponAPI.Controllers.CouponsController",
+    "ContainingType": "Microservices.BackEnd.CouponAPI.Controllers.CouponsAPIController",
     "Method": "Delete",
-    "RelativePath": "api/Coupons/{id}",
+    "RelativePath": "api/CouponsAPI/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -124,9 +124,9 @@
     ]
   },
   {
-    "ContainingType": "Microservices.BackEnd.CouponAPI.Controllers.CouponsController",
+    "ContainingType": "Microservices.BackEnd.CouponAPI.Controllers.CouponsAPIController",
     "Method": "GetByCode",
-    "RelativePath": "api/Coupons/GetByCode/{code}",
+    "RelativePath": "api/CouponsAPI/GetByCode/{code}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
