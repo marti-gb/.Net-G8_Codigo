@@ -5,6 +5,7 @@ using Microservices.FrontEnd.Web.Utility;
 var builder = WebApplication.CreateBuilder(args);
 
 SD.CouponAPIBase = builder.Configuration["ServiceUrls:CouponAPI"];
+SD.AuthAPIBase = builder.Configuration["ServiceUrls:AuthAPI"];
 
 builder.Services.AddHttpContextAccessor();
 builder.Services.AddHttpClient();

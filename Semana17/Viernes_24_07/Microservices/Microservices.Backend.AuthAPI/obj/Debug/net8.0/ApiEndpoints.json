@@ -1,23 +1,50 @@
 [
   {
-    "ContainingType": "Microservices.Backend.AuthAPI.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
-    "HttpMethod": "GET",
+    "ContainingType": "Microservices.Backend.AuthAPI.Controllers.AuthAPIController",
+    "Method": "AssignRole",
+    "RelativePath": "api/AuthAPI/assignRole",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
+    "Parameters": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[Microservices.Backend.AuthAPI.WeatherForecast, Microservices.Backend.AuthAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
+        "Name": "registrationRequestDto",
+        "Type": "Microservices.Backend.AuthAPI.Models.Dto.RegistrationRequestDto",
+        "IsRequired": true
       }
     ],
-    "EndpointName": "GetWeatherForecast"
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Microservices.Backend.AuthAPI.Controllers.AuthAPIController",
+    "Method": "Login",
+    "RelativePath": "api/AuthAPI/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginRequestDto",
+        "Type": "Microservices.Backend.AuthAPI.Models.Dto.LoginRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Microservices.Backend.AuthAPI.Controllers.AuthAPIController",
+    "Method": "Register",
+    "RelativePath": "api/AuthAPI/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registrationRequestDto",
+        "Type": "Microservices.Backend.AuthAPI.Models.Dto.RegistrationRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
