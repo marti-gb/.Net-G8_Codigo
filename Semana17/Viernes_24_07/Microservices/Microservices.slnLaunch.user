@@ -9,6 +9,10 @@
       {
         "Path": "Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "Microservices.Backend.AuthAPI\\Microservices.Backend.AuthAPI.csproj",
+        "Action": "Start"
       }
     ]
   }

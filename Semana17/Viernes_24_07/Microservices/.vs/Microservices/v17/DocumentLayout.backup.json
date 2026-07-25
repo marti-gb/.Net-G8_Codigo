@@ -3,8 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\viernes_24_07\\microservices\\microservices.frontend.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|solutionrelative:microservices.frontend.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\viernes_24_07\\microservices\\microservices.frontend.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|solutionrelative:microservices.frontend.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\viernes_24_07\\microservices\\microservices.frontend.web\\service\\iservice\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|solutionrelative:microservices.frontend.web\\service\\iservice\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\viernes_24_07\\microservices\\microservices.frontend.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|solutionrelative:microservices.frontend.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\viernes_24_07\\microservices\\microservices.frontend.web\\service\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|solutionrelative:microservices.frontend.web\\service\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\viernes_24_07\\microservices\\microservices.frontend.web\\service\\iservice\\itokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|solutionrelative:microservices.frontend.web\\service\\iservice\\itokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\viernes_24_07\\microservices\\microservices.frontend.web\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|solutionrelative:microservices.frontend.web\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0863F56A-E6ED-49F8-91D2-858F8103B973}|Microservices.Backend.AuthAPI\\Microservices.Backend.AuthAPI.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\viernes_24_07\\microservices\\microservices.backend.authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0863F56A-E6ED-49F8-91D2-858F8103B973}|Microservices.Backend.AuthAPI\\Microservices.Backend.AuthAPI.csproj|solutionrelative:microservices.backend.authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\viernes_24_07\\microservices\\microservices.frontend.web\\service\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|solutionrelative:microservices.frontend.web\\service\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\viernes_24_07\\microservices\\microservices.frontend.web\\service\\iservice\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|solutionrelative:microservices.frontend.web\\service\\iservice\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\viernes_24_07\\microservices\\microservices.frontend.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|solutionrelative:microservices.frontend.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\viernes_24_07\\microservices\\microservices.frontend.web\\models\\authdto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|solutionrelative:microservices.frontend.web\\models\\authdto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\viernes_24_07\\microservices\\microservices.frontend.web\\models\\authdto\\registrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|solutionrelative:microservices.frontend.web\\models\\authdto\\registrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\viernes_24_07\\microservices\\microservices.frontend.web\\models\\authdto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|solutionrelative:microservices.frontend.web\\models\\authdto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\viernes_24_07\\microservices\\microservices.frontend.web\\models\\authdto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|solutionrelative:microservices.frontend.web\\models\\authdto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0863F56A-E6ED-49F8-91D2-858F8103B973}|Microservices.Backend.AuthAPI\\Microservices.Backend.AuthAPI.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana17\\viernes_24_07\\microservices\\microservices.backend.authapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,32 +131,206 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.FrontEnd.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Microservices.FrontEnd.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.FrontEnd.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Microservices.FrontEnd.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwDkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-25T03:50:35.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.FrontEnd.Web\\Service\\BaseService.cs",
+              "RelativeDocumentMoniker": "Microservices.FrontEnd.Web\\Service\\BaseService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.FrontEnd.Web\\Service\\BaseService.cs",
+              "RelativeToolTip": "Microservices.FrontEnd.Web\\Service\\BaseService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwBsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T03:46:12.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.FrontEnd.Web\\Service\\IService\\IBaseService.cs",
+              "RelativeDocumentMoniker": "Microservices.FrontEnd.Web\\Service\\IService\\IBaseService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.FrontEnd.Web\\Service\\IService\\IBaseService.cs",
+              "RelativeToolTip": "Microservices.FrontEnd.Web\\Service\\IService\\IBaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T03:46:10.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.FrontEnd.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Microservices.FrontEnd.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.FrontEnd.Web\\Program.cs",
+              "RelativeToolTip": "Microservices.FrontEnd.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T03:44:49.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenProvider.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.FrontEnd.Web\\Service\\TokenProvider.cs",
+              "RelativeDocumentMoniker": "Microservices.FrontEnd.Web\\Service\\TokenProvider.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.FrontEnd.Web\\Service\\TokenProvider.cs",
+              "RelativeToolTip": "Microservices.FrontEnd.Web\\Service\\TokenProvider.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T03:40:56.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITokenProvider.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.FrontEnd.Web\\Service\\IService\\ITokenProvider.cs",
+              "RelativeDocumentMoniker": "Microservices.FrontEnd.Web\\Service\\IService\\ITokenProvider.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.FrontEnd.Web\\Service\\IService\\ITokenProvider.cs",
+              "RelativeToolTip": "Microservices.FrontEnd.Web\\Service\\IService\\ITokenProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T03:39:11.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.FrontEnd.Web\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "Microservices.FrontEnd.Web\\Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.FrontEnd.Web\\Service\\AuthService.cs",
+              "RelativeToolTip": "Microservices.FrontEnd.Web\\Service\\AuthService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T03:17:55.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICouponService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.FrontEnd.Web\\Service\\IService\\ICouponService.cs",
+              "RelativeDocumentMoniker": "Microservices.FrontEnd.Web\\Service\\IService\\ICouponService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.FrontEnd.Web\\Service\\IService\\ICouponService.cs",
+              "RelativeToolTip": "Microservices.FrontEnd.Web\\Service\\IService\\ICouponService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T03:15:44.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.FrontEnd.Web\\Service\\IService\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Microservices.FrontEnd.Web\\Service\\IService\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.FrontEnd.Web\\Service\\IService\\IAuthService.cs",
+              "RelativeToolTip": "Microservices.FrontEnd.Web\\Service\\IService\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T03:15:39.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.FrontEnd.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Microservices.FrontEnd.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.FrontEnd.Web\\appsettings.json",
+              "RelativeToolTip": "Microservices.FrontEnd.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-25T03:14:02.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "AuthAPIController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.Backend.AuthAPI\\Controllers\\AuthAPIController.cs",
               "RelativeDocumentMoniker": "Microservices.Backend.AuthAPI\\Controllers\\AuthAPIController.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.Backend.AuthAPI\\Controllers\\AuthAPIController.cs",
               "RelativeToolTip": "Microservices.Backend.AuthAPI\\Controllers\\AuthAPIController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAgwDQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-25T02:57:21.233Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.FrontEnd.Web\\Models\\AuthDto\\UserDto.cs",
+              "RelativeDocumentMoniker": "Microservices.FrontEnd.Web\\Models\\AuthDto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.FrontEnd.Web\\Models\\AuthDto\\UserDto.cs",
+              "RelativeToolTip": "Microservices.FrontEnd.Web\\Models\\AuthDto\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T03:12:55.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegistrationRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.FrontEnd.Web\\Models\\AuthDto\\RegistrationRequestDto.cs",
+              "RelativeDocumentMoniker": "Microservices.FrontEnd.Web\\Models\\AuthDto\\RegistrationRequestDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.FrontEnd.Web\\Models\\AuthDto\\RegistrationRequestDto.cs",
+              "RelativeToolTip": "Microservices.FrontEnd.Web\\Models\\AuthDto\\RegistrationRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T03:12:49.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.FrontEnd.Web\\Models\\AuthDto\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "Microservices.FrontEnd.Web\\Models\\AuthDto\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.FrontEnd.Web\\Models\\AuthDto\\LoginResponseDto.cs",
+              "RelativeToolTip": "Microservices.FrontEnd.Web\\Models\\AuthDto\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T03:12:46.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.FrontEnd.Web\\Models\\AuthDto\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "Microservices.FrontEnd.Web\\Models\\AuthDto\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.FrontEnd.Web\\Models\\AuthDto\\LoginRequestDto.cs",
+              "RelativeToolTip": "Microservices.FrontEnd.Web\\Models\\AuthDto\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T03:12:28.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.Backend.AuthAPI\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "Microservices.Backend.AuthAPI\\Services\\AuthService.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.Backend.AuthAPI\\Services\\AuthService.cs",
               "RelativeToolTip": "Microservices.Backend.AuthAPI\\Services\\AuthService.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwFwAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAmwF8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-25T02:01:00.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-25T02:01:00.037Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 18,
               "Title": "JwtTokenGenerator.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.Backend.AuthAPI\\Services\\JwtTokenGenerator.cs",
               "RelativeDocumentMoniker": "Microservices.Backend.AuthAPI\\Services\\JwtTokenGenerator.cs",
@@ -112,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 19,
               "Title": "IJwtTokenGenerator.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.Backend.AuthAPI\\Services\\IServices\\IJwtTokenGenerator.cs",
               "RelativeDocumentMoniker": "Microservices.Backend.AuthAPI\\Services\\IServices\\IJwtTokenGenerator.cs",
@@ -124,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 17,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.Backend.AuthAPI\\Services\\IServices\\IAuthService.cs",
               "RelativeDocumentMoniker": "Microservices.Backend.AuthAPI\\Services\\IServices\\IAuthService.cs",
@@ -136,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 20,
               "Title": "LoginResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.Backend.AuthAPI\\Models\\Dto\\LoginResponseDto.cs",
               "RelativeDocumentMoniker": "Microservices.Backend.AuthAPI\\Models\\Dto\\LoginResponseDto.cs",
@@ -148,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.Backend.AuthAPI\\Program.cs",
               "RelativeDocumentMoniker": "Microservices.Backend.AuthAPI\\Program.cs",
@@ -160,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 21,
               "Title": "LoginRequestDto.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.Backend.AuthAPI\\Models\\Dto\\LoginRequestDto.cs",
               "RelativeDocumentMoniker": "Microservices.Backend.AuthAPI\\Models\\Dto\\LoginRequestDto.cs",
@@ -172,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 22,
               "Title": "RegistrationRequestDto.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.Backend.AuthAPI\\Models\\Dto\\RegistrationRequestDto.cs",
               "RelativeDocumentMoniker": "Microservices.Backend.AuthAPI\\Models\\Dto\\RegistrationRequestDto.cs",
@@ -184,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 23,
               "Title": "ResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.Backend.AuthAPI\\Models\\Dto\\ResponseDto.cs",
               "RelativeDocumentMoniker": "Microservices.Backend.AuthAPI\\Models\\Dto\\ResponseDto.cs",
@@ -196,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 28,
               "Title": "20260725012217_initial_auth.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.Backend.AuthAPI\\Migrations\\20260725012217_initial_auth.cs",
               "RelativeDocumentMoniker": "Microservices.Backend.AuthAPI\\Migrations\\20260725012217_initial_auth.cs",
@@ -208,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 25,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.Backend.AuthAPI\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "Microservices.Backend.AuthAPI\\Models\\ApplicationUser.cs",
@@ -220,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 24,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.Backend.AuthAPI\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Microservices.Backend.AuthAPI\\Data\\ApplicationDbContext.cs",
@@ -232,7 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 26,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.Backend.AuthAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Microservices.Backend.AuthAPI\\Properties\\launchSettings.json",
@@ -244,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 27,
               "Title": "Microservices.Backend.AuthAPI.csproj",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana17\\Viernes_24_07\\Microservices\\Microservices.Backend.AuthAPI\\Microservices.Backend.AuthAPI.csproj",
               "RelativeDocumentMoniker": "Microservices.Backend.AuthAPI\\Microservices.Backend.AuthAPI.csproj",
