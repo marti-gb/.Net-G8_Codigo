@@ -1,5 +1,7 @@
 using Microservices.Backend.AuthAPI.Data;
 using Microservices.Backend.AuthAPI.Models;
+using Microservices.Backend.AuthAPI.Services;
+using Microservices.Backend.AuthAPI.Services.IServices;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -19,7 +21,8 @@ builder.Services.Configure<JwtOptions>(builder.Configuration.GetSection("ApiSett
 builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
     .AddEntityFrameworkStores<ApplicationDbContext>()
     .AddDefaultTokenProviders();
-
+builder.Services.AddScoped<IAuthService, AuthService>();
+builder.Services.AddScoped<IJwtTokenGenerator, JwtTokenGenerator>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
