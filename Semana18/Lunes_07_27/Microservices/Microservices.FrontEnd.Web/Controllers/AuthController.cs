@@ -25,11 +25,10 @@ namespace Microservices.FrontEnd.Web.Controllers
 
         #region Login
         [HttpGet]
-        [Route("Login")]
         public IActionResult Login()
         {
-            LoginResponseDto loginResponseDto = new LoginResponseDto();
-            return View(loginResponseDto);
+            LoginRequestDto loginRequestDto = new LoginRequestDto();
+            return View(loginRequestDto);
         }
 
         [HttpPost]
@@ -72,7 +71,7 @@ namespace Microservices.FrontEnd.Web.Controllers
                 jwt.Claims.FirstOrDefault(x => x.Type == JwtRegisteredClaimNames.Name).Value));
 
             identity.AddClaim(new Claim(ClaimTypes.Role,
-                jwt.Claims.FirstOrDefault(x => x.Type == "Role").Value));
+                jwt.Claims.FirstOrDefault(x => x.Type == "role").Value));
 
             var principal = new ClaimsPrincipal(identity);
 
@@ -82,7 +81,6 @@ namespace Microservices.FrontEnd.Web.Controllers
 
         #region register
         [HttpGet]
-        [Route("Register")]
         public IActionResult Register()
         {
             var roleList = new List<SelectListItem>()
@@ -147,7 +145,6 @@ namespace Microservices.FrontEnd.Web.Controllers
 
         #region
         [HttpGet]
-        [Route("Logout")]
         public async Task<IActionResult> Logout()
         {
             await HttpContext.SignOutAsync();
