@@ -442,3 +442,4 @@ C:\Users\LENOVO\Desktop\.NET-G8\Semana18\Lunes_07_27\Microservices\Microservices
 C:\Users\LENOVO\Desktop\.NET-G8\Semana18\Lunes_07_27\Microservices\Microservices.BackEnd.CouponAPI\obj\Debug\net8.0\Microservices.BackEnd.CouponAPI.pdb
 C:\Users\LENOVO\Desktop\.NET-G8\Semana18\Lunes_07_27\Microservices\Microservices.BackEnd.CouponAPI\obj\Debug\net8.0\Microservices.BackEnd.CouponAPI.genruntimeconfig.cache
 C:\Users\LENOVO\Desktop\.NET-G8\Semana18\Lunes_07_27\Microservices\Microservices.BackEnd.CouponAPI\obj\Debug\net8.0\ref\Microservices.BackEnd.CouponAPI.dll
+C:\Users\LENOVO\Desktop\.NET-G8\Semana18\Lunes_07_27\Microservices\Microservices.BackEnd.CouponAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
