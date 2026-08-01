@@ -2,13 +2,14 @@
 using Microservices.BackEnd.ProductAPI.Data;
 using Microservices.BackEnd.ProductAPI.Models;
 using Microservices.BackEnd.ProductAPI.Models.Dto;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Microservices.BackEnd.CouponAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    //[Authorize]
+    [Authorize]
     public class ProductsAPIController : ControllerBase
     {
         private readonly ApplicationDbContext _db;
@@ -92,7 +93,7 @@ namespace Microservices.BackEnd.CouponAPI.Controllers
 
 
         [HttpPost]
-        //[Authorize(Roles ="Admin")]
+        [Authorize(Roles = "Admin")]
         public ResponseDto Post([FromBody] ProductDto productDto)
         {
             try

@@ -1,4 +1,6 @@
-﻿namespace Microservices.FrontEnd.Web.Models.ProductDto
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Microservices.FrontEnd.Web.Models.ProductDto
 {
     public class ProductDto
     {
@@ -8,5 +10,8 @@
         public string Description { get; set; }
         public string CategoryName { get; set; }
         public string ImageUrl { get; set; }
+
+        [Range(1, 100)]
+        public int Count { get; set; }
     }
 }

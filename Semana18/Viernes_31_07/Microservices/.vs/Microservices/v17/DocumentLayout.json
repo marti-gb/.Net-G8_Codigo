@@ -3,44 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana18\\viernes_31_07\\microservices\\microservices.frontend.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|solutionrelative:microservices.frontend.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana18\\viernes_31_07\\microservices\\microservices.frontend.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|solutionrelative:microservices.frontend.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E6E87D7-4994-43D7-9C3E-5551B5BB78C2}|Microservices.BackEnd.ProductAPI\\Microservices.BackEnd.ProductAPI.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana18\\viernes_31_07\\microservices\\microservices.backend.productapi\\controllers\\productsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E6E87D7-4994-43D7-9C3E-5551B5BB78C2}|Microservices.BackEnd.ProductAPI\\Microservices.BackEnd.ProductAPI.csproj|solutionrelative:microservices.backend.productapi\\controllers\\productsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana18\\viernes_31_07\\microservices\\microservices.frontend.web\\models\\productdto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|solutionrelative:microservices.frontend.web\\models\\productdto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana18\\viernes_31_07\\microservices\\microservices.frontend.web\\views\\products\\productdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|solutionrelative:microservices.frontend.web\\views\\products\\productdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana18\\viernes_31_07\\microservices\\microservices.frontend.web\\views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|solutionrelative:microservices.frontend.web\\views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana18\\viernes_31_07\\microservices\\microservices.frontend.web\\views\\products\\productedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|solutionrelative:microservices.frontend.web\\views\\products\\productedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana18\\viernes_31_07\\microservices\\microservices.frontend.web\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|solutionrelative:microservices.frontend.web\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana18\\viernes_31_07\\microservices\\microservices.frontend.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|solutionrelative:microservices.frontend.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana18\\viernes_31_07\\microservices\\microservices.frontend.web\\controllers\\couponscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|solutionrelative:microservices.frontend.web\\controllers\\couponscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana18\\viernes_31_07\\microservices\\microservices.frontend.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|solutionrelative:microservices.frontend.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana18\\viernes_31_07\\microservices\\microservices.frontend.web\\service\\iservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|solutionrelative:microservices.frontend.web\\service\\iservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana18\\viernes_31_07\\microservices\\microservices.frontend.web\\service\\iservice\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|solutionrelative:microservices.frontend.web\\service\\iservice\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|c:\\users\\lenovo\\desktop\\.net-g8\\semana18\\viernes_31_07\\microservices\\microservices.frontend.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06945E55-DBC0-443A-B2D7-6A62CD9EEEAC}|Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj|solutionrelative:microservices.frontend.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,136 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductDelete.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.FrontEnd.Web\\Views\\Products\\ProductDelete.cshtml",
-              "RelativeDocumentMoniker": "Microservices.FrontEnd.Web\\Views\\Products\\ProductDelete.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.FrontEnd.Web\\Views\\Products\\ProductDelete.cshtml",
-              "RelativeToolTip": "Microservices.FrontEnd.Web\\Views\\Products\\ProductDelete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-01T01:42:53.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.FrontEnd.Web\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Microservices.FrontEnd.Web\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.FrontEnd.Web\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Microservices.FrontEnd.Web\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAgwGgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-01T01:17:06.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CouponsController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.FrontEnd.Web\\Controllers\\CouponsController.cs",
-              "RelativeDocumentMoniker": "Microservices.FrontEnd.Web\\Controllers\\CouponsController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.FrontEnd.Web\\Controllers\\CouponsController.cs",
-              "RelativeToolTip": "Microservices.FrontEnd.Web\\Controllers\\CouponsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-01T01:16:50.741Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.FrontEnd.Web\\Program.cs",
-              "RelativeDocumentMoniker": "Microservices.FrontEnd.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.FrontEnd.Web\\Program.cs",
-              "RelativeToolTip": "Microservices.FrontEnd.Web\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-01T01:14:53.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.FrontEnd.Web\\Service\\ProductService.cs",
-              "RelativeDocumentMoniker": "Microservices.FrontEnd.Web\\Service\\ProductService.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.FrontEnd.Web\\Service\\ProductService.cs",
-              "RelativeToolTip": "Microservices.FrontEnd.Web\\Service\\ProductService.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAuwDoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-01T01:05:30.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductsAPIController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.BackEnd.ProductAPI\\Controllers\\ProductsAPIController.cs",
-              "RelativeDocumentMoniker": "Microservices.BackEnd.ProductAPI\\Controllers\\ProductsAPIController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.BackEnd.ProductAPI\\Controllers\\ProductsAPIController.cs",
-              "RelativeToolTip": "Microservices.BackEnd.ProductAPI\\Controllers\\ProductsAPIController.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAYwD8AAAAIAAAAAAAAAA==",
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.FrontEnd.Web\\Models\\ProductDto\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Microservices.FrontEnd.Web\\Models\\ProductDto\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.FrontEnd.Web\\Models\\ProductDto\\ProductDto.cs",
+              "RelativeToolTip": "Microservices.FrontEnd.Web\\Models\\ProductDto\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-01T00:34:23.649Z",
+              "WhenOpened": "2026-08-01T03:03:04.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.FrontEnd.Web\\Views\\Home\\ProductDetails.cshtml",
+              "RelativeDocumentMoniker": "Microservices.FrontEnd.Web\\Views\\Home\\ProductDetails.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.FrontEnd.Web\\Views\\Home\\ProductDetails.cshtml",
+              "RelativeToolTip": "Microservices.FrontEnd.Web\\Views\\Home\\ProductDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-01T02:57:37.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductEdit.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.FrontEnd.Web\\Views\\Products\\ProductEdit.cshtml",
-              "RelativeDocumentMoniker": "Microservices.FrontEnd.Web\\Views\\Products\\ProductEdit.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.FrontEnd.Web\\Views\\Products\\ProductEdit.cshtml",
-              "RelativeToolTip": "Microservices.FrontEnd.Web\\Views\\Products\\ProductEdit.cshtml",
-              "ViewState": "AgIAABMAAAAAAAAAAAAkwEEAAAABAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.FrontEnd.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Microservices.FrontEnd.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.FrontEnd.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Microservices.FrontEnd.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-01T01:38:52.812Z",
+              "WhenOpened": "2026-08-01T02:51:34.089Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.FrontEnd.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Microservices.FrontEnd.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.FrontEnd.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Microservices.FrontEnd.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-01T01:23:32.962Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.FrontEnd.Web\\Service\\IService\\IProductService.cs",
-              "RelativeDocumentMoniker": "Microservices.FrontEnd.Web\\Service\\IService\\IProductService.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.FrontEnd.Web\\Service\\IService\\IProductService.cs",
-              "RelativeToolTip": "Microservices.FrontEnd.Web\\Service\\IService\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.FrontEnd.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Microservices.FrontEnd.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.FrontEnd.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Microservices.FrontEnd.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-01T01:02:26.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ICouponService.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.FrontEnd.Web\\Service\\IService\\ICouponService.cs",
-              "RelativeDocumentMoniker": "Microservices.FrontEnd.Web\\Service\\IService\\ICouponService.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.FrontEnd.Web\\Service\\IService\\ICouponService.cs",
-              "RelativeToolTip": "Microservices.FrontEnd.Web\\Service\\IService\\ICouponService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-01T01:02:04.831Z",
+              "WhenOpened": "2026-08-01T02:46:59.123Z",
               "EditorCaption": ""
             }
           ]
