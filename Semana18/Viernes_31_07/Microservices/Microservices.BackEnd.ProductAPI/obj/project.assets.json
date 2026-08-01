@@ -4200,11 +4200,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Lunes_07_27\\Microservices\\Microservices.BackEnd.ProductAPI\\Microservices.BackEnd.ProductAPI.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.BackEnd.ProductAPI\\Microservices.BackEnd.ProductAPI.csproj",
       "projectName": "Microservices.BackEnd.ProductAPI",
-      "projectPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Lunes_07_27\\Microservices\\Microservices.BackEnd.ProductAPI\\Microservices.BackEnd.ProductAPI.csproj",
+      "projectPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.BackEnd.ProductAPI\\Microservices.BackEnd.ProductAPI.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Lunes_07_27\\Microservices\\Microservices.BackEnd.ProductAPI\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.BackEnd.ProductAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

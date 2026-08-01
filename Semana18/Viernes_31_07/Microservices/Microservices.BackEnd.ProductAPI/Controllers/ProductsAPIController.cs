@@ -2,7 +2,6 @@
 using Microservices.BackEnd.ProductAPI.Data;
 using Microservices.BackEnd.ProductAPI.Models;
 using Microservices.BackEnd.ProductAPI.Models.Dto;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Microservices.BackEnd.CouponAPI.Controllers

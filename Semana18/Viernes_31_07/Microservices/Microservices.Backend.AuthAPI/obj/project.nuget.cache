@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YYeRp2qPTf4=",
+  "dgSpecHash": "d97F1LK/UVE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Lunes_07_27\\Microservices\\Microservices.Backend.AuthAPI\\Microservices.Backend.AuthAPI.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.Backend.AuthAPI\\Microservices.Backend.AuthAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

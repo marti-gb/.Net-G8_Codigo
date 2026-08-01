@@ -255,11 +255,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Lunes_07_27\\Microservices\\Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj",
       "projectName": "Microservices.FrontEnd.Web",
-      "projectPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Lunes_07_27\\Microservices\\Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj",
+      "projectPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.FrontEnd.Web\\Microservices.FrontEnd.Web.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Lunes_07_27\\Microservices\\Microservices.FrontEnd.Web\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.FrontEnd.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

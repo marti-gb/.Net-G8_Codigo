@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Lunes_07_27\\Microservices\\Microservices.BackEnd.CouponAPI\\Microservices.BackEnd.CouponAPI.csproj": {}
+    "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.BackEnd.CouponAPI\\Microservices.BackEnd.CouponAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Lunes_07_27\\Microservices\\Microservices.BackEnd.CouponAPI\\Microservices.BackEnd.CouponAPI.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.BackEnd.CouponAPI\\Microservices.BackEnd.CouponAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Lunes_07_27\\Microservices\\Microservices.BackEnd.CouponAPI\\Microservices.BackEnd.CouponAPI.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.BackEnd.CouponAPI\\Microservices.BackEnd.CouponAPI.csproj",
         "projectName": "Microservices.BackEnd.CouponAPI",
-        "projectPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Lunes_07_27\\Microservices\\Microservices.BackEnd.CouponAPI\\Microservices.BackEnd.CouponAPI.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.BackEnd.CouponAPI\\Microservices.BackEnd.CouponAPI.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Lunes_07_27\\Microservices\\Microservices.BackEnd.CouponAPI\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.BackEnd.CouponAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

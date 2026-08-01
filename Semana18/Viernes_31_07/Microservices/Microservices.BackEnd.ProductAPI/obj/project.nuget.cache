@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F6pdJqFLozU=",
+  "dgSpecHash": "sbjH0kGpuO0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Lunes_07_27\\Microservices\\Microservices.BackEnd.ProductAPI\\Microservices.BackEnd.ProductAPI.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.BackEnd.ProductAPI\\Microservices.BackEnd.ProductAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
@@ -89,9 +89,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "El paquete \"AutoMapper\" 13.0.1 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-rvv3-g6hj-g44x",
-      "projectPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Lunes_07_27\\Microservices\\Microservices.BackEnd.ProductAPI\\Microservices.BackEnd.ProductAPI.csproj",
+      "projectPath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.BackEnd.ProductAPI\\Microservices.BackEnd.ProductAPI.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Lunes_07_27\\Microservices\\Microservices.BackEnd.ProductAPI\\Microservices.BackEnd.ProductAPI.csproj",
+      "filePath": "C:\\Users\\LENOVO\\Desktop\\.NET-G8\\Semana18\\Viernes_31_07\\Microservices\\Microservices.BackEnd.ProductAPI\\Microservices.BackEnd.ProductAPI.csproj",
       "libraryId": "AutoMapper",
       "targetGraphs": [
         "net8.0"
