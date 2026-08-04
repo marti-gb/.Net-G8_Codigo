@@ -4,6 +4,6 @@ namespace Microservices.BackEnd.ShoppingCartAPI.Service.IService
 {
     public interface ICouponService
     {
-        Task<CouponDto> GetCouponAsync(string couponCode);
+        Task<CouponDto> GetCouponByCodeAsync(string couponCode);
     }
 }

@@ -19,7 +19,7 @@ namespace Microservices.FrontEnd.Web.Controllers
         {
             List<CouponDto>? listCoupons = new();
             ResponseDto? responseDto = await _couponService.GetAllCouponAsync();
-            if(responseDto != null && responseDto.IsSuccess)
+            if (responseDto != null && responseDto.IsSuccess)
             {
                 listCoupons = JsonConvert.DeserializeObject<List<CouponDto>>(Convert.ToString(responseDto.Result)!);
             }
@@ -44,7 +44,7 @@ namespace Microservices.FrontEnd.Web.Controllers
             {
                 ResponseDto? responseDto = await _couponService.CreateCouponAsync(couponDto);
 
-                if(responseDto != null && responseDto.IsSuccess)
+                if (responseDto != null && responseDto.IsSuccess)
                 {
                     TempData["success"] = "Cupon creado existosamente";
                     return RedirectToAction(nameof(CouponIndex));

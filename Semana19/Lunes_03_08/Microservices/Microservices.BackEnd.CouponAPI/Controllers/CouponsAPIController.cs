@@ -9,7 +9,7 @@ namespace Microservices.BackEnd.CouponAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+    //[Authorize]
     public class CouponsAPIController : ControllerBase
     {
         private readonly ApplicationDbContext _db;
@@ -29,11 +29,11 @@ namespace Microservices.BackEnd.CouponAPI.Controllers
             {
                 List<CouponDto> couponDtoList = new();
                 var newCouponDto = new CouponDto();
-                IEnumerable<Coupon> couponList = _db.Coupons.Where(x=>!x.IsDeleted).ToList();
+                IEnumerable<Coupon> couponList = _db.Coupons.Where(x => !x.IsDeleted).ToList();
                 //_responseDto.Result = _mapper.Map<IEnumerable<CouponDto>>(couponList);
-                if(couponList.Count() > 0)
+                if (couponList.Count() > 0)
                 {
-                    foreach(var coupon in couponList)
+                    foreach (var coupon in couponList)
                     {
                         newCouponDto.Id = coupon.Id;
                         newCouponDto.CouponCode = coupon.CouponCode;
@@ -51,7 +51,7 @@ namespace Microservices.BackEnd.CouponAPI.Controllers
             catch (Exception ex)
             {
                 _responseDto.IsSuccess = false;
-                _responseDto.Message = "Ocurrio un error al obtener los cupones: "+ex.Message;
+                _responseDto.Message = "Ocurrio un error al obtener los cupones: " + ex.Message;
             }
 
             return _responseDto;
@@ -117,13 +117,13 @@ namespace Microservices.BackEnd.CouponAPI.Controllers
         }
 
         [HttpPost]
-        [Authorize(Roles ="Admin")]
+        [Authorize(Roles = "Admin")]
         public ResponseDto Post([FromBody] CouponDto couponDto)
         {
             try
             {
                 var newCoupon = new Coupon();
-                if(couponDto != null)
+                if (couponDto != null)
                 {
                     newCoupon.CouponCode = couponDto.CouponCode;
                     newCoupon.DiscountAmount = couponDto.DiscountAmount;
@@ -139,7 +139,7 @@ namespace Microservices.BackEnd.CouponAPI.Controllers
                 else
                 {
                     _responseDto.Result = null;
-                    _responseDto.IsSuccess=false;
+                    _responseDto.IsSuccess = false;
                     _responseDto.Message = $"El cupon ingresado no es valido";
                 }
             }

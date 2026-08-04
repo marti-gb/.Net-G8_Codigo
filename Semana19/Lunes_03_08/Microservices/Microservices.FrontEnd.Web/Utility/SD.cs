@@ -13,8 +13,8 @@
         public enum ApiType
         {
             GET,
-            POST, 
-            PUT, 
+            POST,
+            PUT,
             DELETE
         }
     }

@@ -19,7 +19,7 @@ namespace Microservices.FrontEnd.Web.Controllers
         {
             List<ProductDto>? listProducts = new();
             ResponseDto? responseDto = await _productService.GetAllProductAsync();
-            if(responseDto != null && responseDto.IsSuccess)
+            if (responseDto != null && responseDto.IsSuccess)
             {
                 listProducts = JsonConvert.DeserializeObject<List<ProductDto>>(Convert.ToString(responseDto.Result)!);
             }

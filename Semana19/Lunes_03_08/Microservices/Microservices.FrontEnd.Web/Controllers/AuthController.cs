@@ -35,7 +35,7 @@ namespace Microservices.FrontEnd.Web.Controllers
         public async Task<IActionResult> Login(LoginRequestDto loginRequestDto)
         {
             ResponseDto responseDto = await _authService.LoginAsync(loginRequestDto);
-            if(responseDto != null && responseDto.IsSuccess)
+            if (responseDto != null && responseDto.IsSuccess)
             {
                 LoginResponseDto loginResponseDto =
                     JsonConvert.DeserializeObject<LoginResponseDto>(Convert.ToString(responseDto.Result));
@@ -52,7 +52,7 @@ namespace Microservices.FrontEnd.Web.Controllers
             }
 
         }
-        
+
 
         private async Task SignInUser(LoginResponseDto loginResponseDto)
         {
@@ -114,7 +114,7 @@ namespace Microservices.FrontEnd.Web.Controllers
                     registrationRequestDto.Role = SD.RoleAdmin;
                 }
                 assignRole = await _authService.AssignRoleAsync(registrationRequestDto);
-                if(assignRole != null && assignRole.IsSuccess)
+                if (assignRole != null && assignRole.IsSuccess)
                 {
                     TempData["success"] = "Rgistrado completado con exito";
                     return RedirectToAction(nameof(Login));

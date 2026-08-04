@@ -20,7 +20,7 @@ namespace Microservices.FrontEnd.Web.Service
         public string? GetToken()
         {
             var context = _contextAccessor.HttpContext;
-            if(context != null)
+            if (context != null)
             {
                 var cookie = context.Request.Cookies[SD.TokenCookie];
                 return cookie;

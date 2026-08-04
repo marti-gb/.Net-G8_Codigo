@@ -13,7 +13,7 @@ namespace Microservices.Backend.AuthAPI.Services
         private readonly RoleManager<IdentityRole> _rolemanager;
         private readonly IJwtTokenGenerator _jwtTokenGenerator;
 
-        public AuthService(ApplicationDbContext db, 
+        public AuthService(ApplicationDbContext db,
             UserManager<ApplicationUser> usermanager,
             RoleManager<IdentityRole> rolemanager,
             IJwtTokenGenerator jwtTokenGenerator)
@@ -65,9 +65,9 @@ namespace Microservices.Backend.AuthAPI.Services
 
         public async Task<LoginResponseDto> Login(LoginRequestDto loginRequestDto)
         {
-            var user = _db.ApplicationUsers.FirstOrDefault(x=>x.UserName.ToLower()==loginRequestDto.Username.ToLower());
+            var user = _db.ApplicationUsers.FirstOrDefault(x => x.UserName.ToLower() == loginRequestDto.Username.ToLower());
             var isValid = await _usermanager.CheckPasswordAsync(user, loginRequestDto.Password);
-            if(user == null || !isValid)
+            if (user == null || !isValid)
             {
                 return new LoginResponseDto()
                 {
@@ -99,7 +99,7 @@ namespace Microservices.Backend.AuthAPI.Services
         public async Task<bool> AssignRole(string email, string roleName)
         {
             var user = _db.ApplicationUsers.FirstOrDefault(x => x.UserName.ToLower() == email.ToLower());
-            if(user != null)
+            if (user != null)
             {
                 if (!_rolemanager.RoleExistsAsync(roleName).GetAwaiter().GetResult())
                 {

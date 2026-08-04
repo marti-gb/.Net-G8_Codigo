@@ -1,6 +1,5 @@
 ﻿using Microservices.Backend.AuthAPI.Models.Dto;
 using Microservices.Backend.AuthAPI.Services.IServices;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Microservices.Backend.AuthAPI.Controllers

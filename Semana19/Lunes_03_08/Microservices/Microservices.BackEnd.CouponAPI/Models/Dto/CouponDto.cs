@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace Microservices.BackEnd.CouponAPI.Models.Dto
+﻿namespace Microservices.BackEnd.CouponAPI.Models.Dto
 {
     public class CouponDto
     {

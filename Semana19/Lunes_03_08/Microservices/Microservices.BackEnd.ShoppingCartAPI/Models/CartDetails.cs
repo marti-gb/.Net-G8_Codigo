@@ -14,7 +14,7 @@ namespace Microservices.BackEnd.ShoppingCartAPI.Models
         public int ProductId { get; set; }
 
         [NotMapped]
-        public ProductDto ProductDto  { get; set; }
+        public ProductDto ProductDto { get; set; }
         public int Count { get; set; }
 
         public bool IsDeleted { get; set; }

@@ -17,6 +17,10 @@
       {
         "Path": "Microservices.BackEnd.ProductAPI\\Microservices.BackEnd.ProductAPI.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "Microservices.BackEnd.ShoppingCartAPI\\Microservices.BackEnd.ShoppingCartAPI.csproj",
+        "Action": "Start"
       }
     ]
   }

@@ -45,7 +45,7 @@ namespace Microservices.FrontEnd.Web.Service
                     _ => HttpMethod.Get
                 };
 
-                if(requestDto.Data != null )
+                if (requestDto.Data != null)
                 {
                     var jsonData = JsonConvert.SerializeObject(requestDto.Data);
                     requestMessage.Content = new StringContent(jsonData, Encoding.UTF8, "application/json");
@@ -59,7 +59,7 @@ namespace Microservices.FrontEnd.Web.Service
                     var errorContent = await responseMessage.Content.ReadAsStringAsync();
                 }
 
-                switch(responseMessage.StatusCode)
+                switch (responseMessage.StatusCode)
                 {
                     case HttpStatusCode.NotFound:
                         return new ResponseDto { IsSuccess = false, Message = "Not Found" };
@@ -79,7 +79,7 @@ namespace Microservices.FrontEnd.Web.Service
             }
             catch (Exception ex)
             {
-                var dto = new ResponseDto { IsSuccess = false, Message= ex.Message };
+                var dto = new ResponseDto { IsSuccess = false, Message = ex.Message };
                 return dto;
             }
         }

@@ -11,7 +11,7 @@ namespace Microservices.BackEnd.ShoppingCartAPI.Utility
             _httpContextAccessor = httpContextAccessor;
         }
 
-        protected override async Task<HttpResponseMessage> SendAsync(HttpRequestMessage 
+        protected override async Task<HttpResponseMessage> SendAsync(HttpRequestMessage
             requestMessage, CancellationToken cancellationToken)
         {
             var token = await _httpContextAccessor.HttpContext.GetTokenAsync("access_token");
@@ -20,5 +20,5 @@ namespace Microservices.BackEnd.ShoppingCartAPI.Utility
             return await base.SendAsync(requestMessage, cancellationToken);
 
         }
-    } 
+    }
 }

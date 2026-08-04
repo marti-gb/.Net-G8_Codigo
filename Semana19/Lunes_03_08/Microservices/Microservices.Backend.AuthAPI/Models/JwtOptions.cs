@@ -1,6 +1,4 @@
-﻿using System.Globalization;
-
-namespace Microservices.Backend.AuthAPI.Models
+﻿namespace Microservices.Backend.AuthAPI.Models
 {
     public class JwtOptions
     {

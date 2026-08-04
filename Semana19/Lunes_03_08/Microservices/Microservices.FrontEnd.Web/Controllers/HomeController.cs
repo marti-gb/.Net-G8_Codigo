@@ -34,7 +34,7 @@ namespace Microservices.FrontEnd.Web.Controllers
             {
                 TempData["error"] = responseDto?.Message;
             }
-            
+
             return View(listProducts);
         }
 
@@ -46,7 +46,7 @@ namespace Microservices.FrontEnd.Web.Controllers
 
             ResponseDto? responseDto = await _productService.GetProductByIdAsync(productId);
 
-            if(responseDto != null && responseDto.IsSuccess)
+            if (responseDto != null && responseDto.IsSuccess)
             {
                 productDto = JsonConvert.DeserializeObject<ProductDto>(Convert.ToString(responseDto.Result)!);
             }

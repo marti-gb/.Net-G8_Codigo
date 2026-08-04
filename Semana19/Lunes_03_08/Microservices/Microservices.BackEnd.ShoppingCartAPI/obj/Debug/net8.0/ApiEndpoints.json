@@ -1,0 +1,132 @@
+[
+  {
+    "ContainingType": "Microservices.BackEnd.ShoppingCartAPI.Controllers.ShoppingCartAPIController",
+    "Method": "ApplyCoupon",
+    "RelativePath": "api/ShoppingCartAPI/ApplyCoupon",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cartDto",
+        "Type": "Microservices.BackEnd.ShoppingCartAPI.Models.Dto.CartDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Microservices.BackEnd.ShoppingCartAPI.Models.Dto.ResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Microservices.BackEnd.ShoppingCartAPI.Controllers.ShoppingCartAPIController",
+    "Method": "GetCartByUserId",
+    "RelativePath": "api/ShoppingCartAPI/GetCart/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Microservices.BackEnd.ShoppingCartAPI.Models.Dto.ResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Microservices.BackEnd.ShoppingCartAPI.Controllers.ShoppingCartAPIController",
+    "Method": "RemoveCart",
+    "RelativePath": "api/ShoppingCartAPI/RemoveCart",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cartDetailsId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Microservices.BackEnd.ShoppingCartAPI.Models.Dto.ResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Microservices.BackEnd.ShoppingCartAPI.Controllers.ShoppingCartAPIController",
+    "Method": "RemoveCoupon",
+    "RelativePath": "api/ShoppingCartAPI/RemoveCoupon",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "applyCouponDto",
+        "Type": "Microservices.BackEnd.ShoppingCartAPI.Models.Dto.ApplyCouponDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Microservices.BackEnd.ShoppingCartAPI.Models.Dto.ResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Microservices.BackEnd.ShoppingCartAPI.Controllers.ShoppingCartAPIController",
+    "Method": "UpSertCart",
+    "RelativePath": "api/ShoppingCartAPI/UpSert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cartDtoRequest",
+        "Type": "Microservices.BackEnd.ShoppingCartAPI.Models.Dto.CartDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Microservices.BackEnd.ShoppingCartAPI.Models.Dto.ResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

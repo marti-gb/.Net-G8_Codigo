@@ -10,6 +10,6 @@ namespace Microservices.FrontEnd.Web.Service.IService
         Task<ResponseDto?> CreateProductAsync(ProductDto productDto);
         Task<ResponseDto?> UpdateProductAsync(ProductDto productDto);
         Task<ResponseDto?> DeleteProductAsync(int id);
-        
+
     }
 }

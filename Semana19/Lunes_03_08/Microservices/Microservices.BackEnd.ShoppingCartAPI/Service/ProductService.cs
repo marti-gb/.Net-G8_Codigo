@@ -19,7 +19,7 @@ namespace Microservices.BackEnd.ShoppingCartAPI.Service
 
             var apiContent = await response.Content.ReadAsStringAsync();
             var result = JsonConvert.DeserializeObject<ResponseDto>(apiContent);
-            if(result != null && result.IsSuccess)
+            if (result != null && result.IsSuccess)
             {
                 return JsonConvert.DeserializeObject<IEnumerable<ProductDto>>(Convert.ToString(result.Result)!)!;
             }

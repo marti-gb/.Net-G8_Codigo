@@ -31,7 +31,7 @@ namespace Microservices.FrontEnd.Web.Service
             return await _baseService.SendAsync(new RequestDto()
             {
                 ApiType = ApiType.DELETE,
-                Url = SD.CouponAPIBase + "/api/CouponsAPI/"+id
+                Url = SD.CouponAPIBase + "/api/CouponsAPI/" + id
             });
         }
 
@@ -58,7 +58,7 @@ namespace Microservices.FrontEnd.Web.Service
             return await _baseService.SendAsync(new RequestDto()
             {
                 ApiType = ApiType.GET,
-                Url = SD.CouponAPIBase + "/api/CouponsAPI/"+id
+                Url = SD.CouponAPIBase + "/api/CouponsAPI/" + id
             });
         }
 

@@ -9,7 +9,7 @@ namespace Microservices.BackEnd.CouponAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+    //[Authorize]
     public class ProductsAPIController : ControllerBase
     {
         private readonly ApplicationDbContext _db;
@@ -29,11 +29,11 @@ namespace Microservices.BackEnd.CouponAPI.Controllers
             {
                 List<ProductDto> productDtoList = new();
                 var newProductDto = new ProductDto();
-                IEnumerable<Product> productList = _db.Products.Where(x=>!x.IsDeleted).ToList();
+                IEnumerable<Product> productList = _db.Products.Where(x => !x.IsDeleted).ToList();
                 //_responseDto.Result = _mapper.Map<IEnumerable<CouponDto>>(couponList);
-                if(productList.Count() > 0)
+                if (productList.Count() > 0)
                 {
-                    foreach(var product in productList)
+                    foreach (var product in productList)
                     {
                         newProductDto.Id = product.Id;
                         newProductDto.Name = product.Name;
@@ -53,7 +53,7 @@ namespace Microservices.BackEnd.CouponAPI.Controllers
             catch (Exception ex)
             {
                 _responseDto.IsSuccess = false;
-                _responseDto.Message = "Ocurrio un error al obtener los productos: "+ex.Message;
+                _responseDto.Message = "Ocurrio un error al obtener los productos: " + ex.Message;
             }
 
             return _responseDto;
@@ -99,7 +99,7 @@ namespace Microservices.BackEnd.CouponAPI.Controllers
             try
             {
                 var newProduct = new Product();
-                if(productDto != null)
+                if (productDto != null)
                 {
                     newProduct.Name = productDto.Name;
                     newProduct.Price = productDto.Price;
@@ -117,7 +117,7 @@ namespace Microservices.BackEnd.CouponAPI.Controllers
                 else
                 {
                     _responseDto.Result = null;
-                    _responseDto.IsSuccess=false;
+                    _responseDto.IsSuccess = false;
                     _responseDto.Message = $"El producto ingresado no es valido";
                 }
             }
