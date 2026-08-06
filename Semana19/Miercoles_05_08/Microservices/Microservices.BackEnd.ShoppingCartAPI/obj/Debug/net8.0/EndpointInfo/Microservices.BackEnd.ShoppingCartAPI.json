@@ -267,8 +267,8 @@
             "type": "integer",
             "format": "int32"
           },
-          "cartHeader": {
-            "$ref": "#/components/schemas/CartHeader"
+          "cartHeaderDto": {
+            "$ref": "#/components/schemas/CartHeaderDto"
           },
           "productId": {
             "type": "integer",
@@ -296,35 +296,6 @@
               "$ref": "#/components/schemas/CartDetailsDto"
             },
             "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
-      "CartHeader": {
-        "type": "object",
-        "properties": {
-          "id": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "userId": {
-            "type": "string",
-            "nullable": true
-          },
-          "couponCode": {
-            "type": "string",
-            "nullable": true
-          },
-          "discount": {
-            "type": "number",
-            "format": "double"
-          },
-          "cartTotal": {
-            "type": "number",
-            "format": "double"
-          },
-          "isDeleted": {
-            "type": "boolean"
           }
         },
         "additionalProperties": false

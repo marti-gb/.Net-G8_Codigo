@@ -142,7 +142,7 @@ namespace Microservices.BackEnd.ShoppingCartAPI.Controllers
                         CartDetailsDto? cartDetailsDto = cartDtoRequest.CartDetailsDtos
                             .FirstOrDefault();
 
-                        newCartDetails.CartHeaderId = cartDetailsDto.CartHeaderId;
+                        newCartDetails.CartHeaderId = cartHeaderFromDb.Id;
                         newCartDetails.ProductId = cartDetailsDto.ProductId;
                         newCartDetails.Count = cartDetailsDto.Count;
 
@@ -205,7 +205,8 @@ namespace Microservices.BackEnd.ShoppingCartAPI.Controllers
                         Id = p.Id,
                         CartHeaderId = p.Id,
                         ProductId = p.ProductId,
-                        Count = p.Count
+                        Count = p.Count,
+                        ProductDto = p.ProductDto
                     })
                     .ToList()
                 };
