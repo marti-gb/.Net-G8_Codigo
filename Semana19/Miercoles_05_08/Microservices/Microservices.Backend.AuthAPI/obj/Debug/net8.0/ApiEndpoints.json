@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "Microservices.Backend.AuthAPI.Controllers.AuthAPIController",
+    "Method": "AssignRole",
+    "RelativePath": "api/AuthAPI/assignRole",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registrationRequestDto",
+        "Type": "Microservices.Backend.AuthAPI.Models.Dto.RegistrationRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Microservices.Backend.AuthAPI.Controllers.AuthAPIController",
+    "Method": "Login",
+    "RelativePath": "api/AuthAPI/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginRequestDto",
+        "Type": "Microservices.Backend.AuthAPI.Models.Dto.LoginRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Microservices.Backend.AuthAPI.Controllers.AuthAPIController",
+    "Method": "Register",
+    "RelativePath": "api/AuthAPI/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registrationRequestDto",
+        "Type": "Microservices.Backend.AuthAPI.Models.Dto.RegistrationRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
